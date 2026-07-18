@@ -1,0 +1,194 @@
+StadiumID,StadiumName,City,Country
+S-089,Jita Stadium,Jita,Japan
+S-108,Ahmad bin Ali Stadium,Al Rayyan,Qatar
+S-107,Al Bayt Stadium,Al Khor,Qatar
+S-111,Al Janoub Stadium,Al Wakrah,Qatar
+S-112,Al Thumama Stadium,Doha,Qatar
+S-064,Allianz Arena,Munich,Germany
+S-058,Arena AufShalke,Gelsenkirchen,Germany
+S-022,Arena Corinthians,São Paulo,Brazil
+S-021,Arena Fonte Nova,Salvador,Brazil
+S-010,Arena Pantanal,Cuiabá,Brazil
+S-018,Arena Pernambuco,Recife,Brazil
+S-014,Arena da Amazônia,Manaus,Brazil
+S-011,Arena da Baixada,Curitiba,Brazil
+S-015,Arena das Dunas,Natal,Brazil
+S-175,Arosvallen,Västerås,Sweden
+S-033,Ayresome Park,Middlesbrough,England
+S-162,Balaídos,Vigo,Spain
+S-137,Busan Asiad Stadium,Busan,South Korea
+S-149,Camp Nou,Barcelona,Spain
+S-128,Cape Town Stadium,Cape Town,South Africa
+S-126,Central Stadium,Yekaterinburg,Russia
+S-178,Charmilles Stadium,Geneva,Switzerland
+S-186,Citrus Bowl,Orlando,United States
+S-180,Cornaredo Stadium,Lugano,Switzerland
+S-183,Cotton Bowl,Dallas,United States
+S-138,Daegu World Cup Stadium,Daegu,South Korea
+S-139,Daejeon World Cup Stadium,Daejeon,South Korea
+S-109,Education City Stadium,Al Rayyan,Qatar
+S-130,Ellis Park Stadium,Johannesburg,South Africa
+S-150,Estadi de Sarrià,Barcelona,Spain
+S-099,Estadio Azteca,Mexico City,Mexico
+S-158,Estadio Benito Villamarín,Seville,Spain
+S-024,Estadio Carlos Dittborn,Arica,Chile
+S-157,Estadio Carlos Tartiere,Oviedo,Spain
+S-191,Estadio Centenario,Montevideo,Uruguay
+S-003,Estadio Chateau Carreras,Córdoba,Argentina
+S-005,Estadio Ciudad de Mendoza,Mendoza,Argentina
+S-104,Estadio Cuauhtémoc,Puebla,Mexico
+S-153,Estadio El Molinón,Gijón,Spain
+S-025,Estadio El Teniente,Rancagua,Chile
+S-006,Estadio Gigante de Arroyito,Rosario,Argentina
+S-192,Estadio Gran Parque Central,Montevideo,Uruguay
+S-095,Estadio Jalisco,Guadalajara,Mexico
+S-001,Estadio José Amalfitani,Buenos Aires,Argentina
+S-004,Estadio José María Minella,Mar del Plata,Argentina
+S-148,Estadio José Rico Pérez,Alicante,Spain
+S-161,Estadio José Zorrilla,Valladolid,Spain
+S-105,Estadio La Corregidora,Querétaro,Mexico
+S-163,Estadio La Romareda,Zaragoza,Spain
+S-156,Estadio La Rosaleda,Málaga,Spain
+S-160,Estadio Luis Casanova,Valencia,Spain
+S-002,Estadio Monumental,Buenos Aires,Argentina
+S-026,Estadio Nacional,Santiago,Chile
+S-103,Estadio Neza 86,Nezahualcóyotl,Mexico
+S-098,Estadio Nou Camp,León,Mexico
+S-100,Estadio Olímpico Universitario,Mexico City,Mexico
+S-193,Estadio Pocitos,Montevideo,Uruguay
+S-159,Estadio Ramón Sánchez Pizjuán,Seville,Spain
+S-147,Estadio Riazor,A Coruña,Spain
+S-151,Estadio San Mamés,Bilbao,Spain
+S-154,Estadio Santiago Bernabéu,Madrid,Spain
+S-027,Estadio Sausalito,Viña del Mar,Chile
+S-097,Estadio Sergio León Chavez,Irapuato,Mexico
+S-101,Estadio Tecnológico,Monterrey,Mexico
+S-096,Estadio Tres de Marzo,Guadalajara,Mexico
+S-102,Estadio Universitario,Monterrey,Mexico
+S-016,Estádio Beira-Rio,Porto Alegre,Brazil
+S-013,Estádio Castelão,Fortaleza,Brazil
+S-019,Estádio Ilha do Retiro,Recife,Brazil
+S-007,Estádio Independência,Belo Horizonte,Brazil
+S-008,Estádio Mineirão,Belo Horizonte,Brazil
+S-009,Estádio Nacional,Brasília,Brazil
+S-012,Estádio Vila Capanema,Curitiba,Brazil
+S-020,Estádio do Maracanã,Rio de Janeiro,Brazil
+S-023,Estádio do Pacaembu,São Paulo,Brazil
+S-017,Estádio dos Eucaliptos,Porto Alegre,Brazil
+S-171,Eyravallen,Örebro,Sweden
+S-124,Fisht Olympic Stadium,Sochi,Russia
+S-185,Foxboro Stadium,Foxborough,United States
+S-066,Frankenstadion,Nuremberg,Germany
+S-127,Free State Stadium,Bloemfontein,South Africa
+S-062,Fritz-Walter-Stadion,Kaiserslautern,Germany
+S-184,Giants Stadium,East Rutherford,United States
+S-029,Goodison Park,Liverpool,England
+S-140,Gwangju World Cup Stadium,Gwangju,South Korea
+S-181,Hardturm Stadium,Zürich,Switzerland
+S-034,Hillsborough Stadium,Sheffield,England
+S-170,Idrottsparken,Norrköping,Sweden
+S-141,Incheon Munhak Stadium,Incheon,South Korea
+S-094,International Stadium Yokohama,Yokohama,Japan
+S-143,Jeju World Cup Stadium,Seogwipo,South Korea
+S-142,Jeonju World Cup Stadium,Jeonju,South Korea
+S-172,Jernvallen,Sandviken,Sweden
+S-115,Kaliningrad Stadium,Kaliningrad,Russia
+S-085,Kashima Stadium,Ibaraki,Japan
+S-116,Kazan Arena,Kazan,Russia
+S-110,Khalifa International Stadium,Al Rayyan,Qatar
+S-086,Kobe Wing Stadium,Kobe,Japan
+S-121,Krestovsky Stadium,Saint Petersburg,Russia
+S-106,La Bombonera,Toluca,Mexico
+S-135,Loftus Versfeld Stadium,Pretoria,South Africa
+S-114,Lusail Stadium,Lusail,Qatar
+S-117,Luzhniki Stadium,Moscow,Russia
+S-169,Malmö Stadion,Malmö,Sweden
+S-132,Mbombela Stadium,Nelspruit,South Africa
+S-087,Miyagi Stadium,Miyagi,Japan
+S-123,Mordovia Arena,Saransk,Russia
+S-129,Moses Mabhida Stadium,Durban,South Africa
+S-090,Nagai Stadium,Osaka,Japan
+S-067,Neckarstadion,Stuttgart,Germany
+S-134,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa
+S-061,Niedersachsenstadion,Hanover,Germany
+S-088,Niigata Stadium,Niigata,Japan
+S-119,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia
+S-152,Nuevo Estadio,Elche,Spain
+S-032,Old Trafford,Manchester,England
+S-168,Olympia,Helsingborg,Sweden
+S-053,Olympiastadion,Berlin,Germany
+S-065,Olympiastadion,Munich,Germany
+S-118,Otkritie Arena,Moscow,Russia
+S-045,Parc des Princes,Paris,France
+S-059,Parkstadion,Gelsenkirchen,Germany
+S-133,Peter Mokaba Stadium,Polokwane,South Africa
+S-188,Pontiac Silverdome,Pontiac,United States
+S-190,RFK Stadium,"Washington, D.C.",United States
+S-054,RheinEnergieStadion,Cologne,Germany
+S-056,Rheinstadion,Düsseldorf,Germany
+S-174,Rimnersvallen,Uddevalla,Sweden
+S-035,Roker Park,Sunderland,England
+S-187,Rose Bowl,Pasadena,United States
+S-120,Rostov Arena,Rostov-on-Don,Russia
+S-136,Royal Bafokeng Stadium,Rustenburg,South Africa
+S-164,Ryavallen,Borås,Sweden
+S-173,Råsunda Stadium,Solna,Sweden
+S-091,Saitama Stadium,Saitama,Japan
+S-122,Samara Arena,Samara,Russia
+S-074,San Siro,Milan,Italy
+S-092,Sapporo Dome,Sapporo,Japan
+S-144,Seoul World Cup Stadium,Seoul,South Korea
+S-093,Shizuoka Stadium ECOPA,Shizuoka,Japan
+S-131,Soccer City,Johannesburg,South Africa
+S-182,Soldier Field,Chicago,United States
+S-176,St. Jakob Stadium,Basel,Switzerland
+S-039,Stade Félix-Bollaert,Lens,France
+S-049,Stade Geoffroy-Guichard,Saint-Étienne,France
+S-038,Stade Jules Deschaseaux,Le Havre,France
+S-046,Stade Olympique de Colombes,Paris,France
+S-179,Stade Olympique de la Pontaise,Lausanne,Switzerland
+S-040,Stade Victor Boucquey,Lille,France
+S-042,Stade Vélodrome,Marseille,France
+S-048,Stade de France,Saint-Denis,France
+S-041,Stade de Gerland,Lyon,France
+S-051,Stade de Toulouse,Toulouse,France
+S-044,Stade de la Beaujoire,Nantes,France
+S-050,Stade de la Meinau,Strasbourg,France
+S-043,Stade de la Mosson,Montpellier,France
+S-036,Stade du Fort Carré,Antibes,France
+S-037,Stade du Parc Lescure,Bordeaux,France
+S-052,Stade du T.O.E.C.,Toulouse,France
+S-081,Stadio Benito Mussolini,Turin,Italy
+S-071,Stadio Comunale,Florence,Italy
+S-083,Stadio Friuli,Udine,Italy
+S-075,Stadio Giorgio Ascarelli,Naples,Italy
+S-072,Stadio Giovanni Berta,Florence,Italy
+S-077,Stadio La Favorita,Palermo,Italy
+S-080,Stadio Littorio,Trieste,Italy
+S-073,Stadio Luigi Ferraris,Genoa,Italy
+S-084,Stadio Marc'Antonio Bentegodi,Verona,Italy
+S-078,Stadio Nazionale PNF,Rome,Italy
+S-079,Stadio Olimpico,Rome,Italy
+S-069,Stadio Renato Dall'Ara,Bologna,Italy
+S-068,Stadio San Nicola,Bari,Italy
+S-076,Stadio San Paolo,Naples,Italy
+S-070,Stadio Sant'Elia,Cagliari,Italy
+S-082,Stadio delle Alpi,Turin,Italy
+S-113,Stadium 974,Doha,Qatar
+S-189,Stanford Stadium,Stanford,United States
+S-145,Suwon World Cup Stadium,Suwon,South Korea
+S-165,Tunavallen,Eskilstuna,Sweden
+S-166,Ullevi,Gothenburg,Sweden
+S-146,Ulsan Munsu Football Stadium,Ulsan,South Korea
+S-155,Vicente Calderón,Madrid,Spain
+S-028,Villa Park,Birmingham,England
+S-125,Volgograd Arena,Volgograd,Russia
+S-060,Volksparkstadion,Hamburg,Germany
+S-047,Vélodrome Municipal,Reims,France
+S-057,Waldstadion,Frankfurt,Germany
+S-177,Wankdorf Stadium,Bern,Switzerland
+S-030,Wembley Stadium,London,England
+S-055,Westfalenstadion,Dortmund,Germany
+S-031,White City Stadium,London,England
+S-063,Zentralstadion,Leipzig,Germany
+S-167,Örjans Vall,Halmstad,Sweden

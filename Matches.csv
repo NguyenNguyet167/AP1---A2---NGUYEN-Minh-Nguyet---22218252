@@ -1,0 +1,965 @@
+MatchID,TournamentID,MatchName,Stage,MatchDate,MatchTime,StadiumID,HomeTeamID,AwayTeamID,HomeTeamScore,AwayTeamScore,ExtraTime,PenaltyShootout,HomePenalty,AwayPenalty,Result
+M-1930-01,WC-1930,France v Mexico,group stage,7/13/1930,15:00:00,S-193,T-28,T-44,4,1,0,0,?,0,home team win
+M-1930-02,WC-1930,United States v Belgium,group stage,7/13/1930,15:00:00,S-192,T-80,T-06,3,0,0,0,0,0,home team win
+M-1930-03,WC-1930,Yugoslavia v Brazil,group stage,7/14/1930,12:45:00,S-192,T-84,T-09,2,1,0,0,0,0,home team win
+M-1930-04,WC-1930,Romania v Peru,group stage,7/14/1930,14:50:00,S-193,T-59,T-54,3,1,0,0,0,?,home team win
+M-1930-05,WC-1930,Argentina v France,group stage,7/15/1930,16:00:00,S-192,T-03,T-28,1,0,0,0,0,0,home team win
+M-1930-06,WC-1930,Chile v Mexico,group stage,7/16/1930,14:45:00,S-192,T-13,T-44,3,0,0,0,0,0,home team win
+M-1930-07,WC-1930,Yugoslavia v Bolivia,group stage,7/17/1930,12:45:00,S-192,T-84,T-07,4,0,0,0,0,0,home team win
+M-1930-08,WC-1930,United States v Paraguay,group stage,7/17/1930,14:45:00,S-192,T-80,T-53,3,0,0,0,0,0,home team win
+M-1930-09,WC-1930,Uruguay v Peru,group stage,7/18/1930,14:30:00,S-191,T-81,T-54,1,0,0,0,0,0,home team win
+M-1930-10,WC-1930,Chile v France,group stage,7/19/1930,12:50:00,S-191,T-13,T-28,1,0,0,0,0,0,home team win
+M-1930-11,WC-1930,Argentina v Mexico,group stage,7/19/1930,15:00:00,S-191,T-03,T-44,6,3,0,0,0,0,home team win
+M-1930-12,WC-1930,Brazil v Bolivia,group stage,7/20/1930,13:00:00,S-191,T-09,T-07,4,0,0,0,0,0,home team win
+M-1930-13,WC-1930,Paraguay v Belgium,group stage,7/20/1930,15:00:00,S-191,T-53,T-06,1,0,0,0,?,0,home team win
+M-1930-14,WC-1930,Uruguay v Romania,group stage,7/21/1930,14:50:00,S-191,T-81,T-59,4,0,0,0,0,0,home team win
+M-1930-15,WC-1930,Argentina v Chile,group stage,7/22/1930,14:45:00,S-191,T-03,T-13,3,1,0,0,0,0,home team win
+M-1930-16,WC-1930,Argentina v United States,semi-finals,7/26/1930,14:45:00,S-191,T-03,T-80,6,1,0,0,0,0,home team win
+M-1930-17,WC-1930,Uruguay v Yugoslavia,semi-finals,7/27/1930,14:45:00,S-191,T-81,T-84,6,1,0,0,0,0,home team win
+M-1930-18,WC-1930,Uruguay v Argentina,final,7/30/1930,14:15:00,S-191,T-81,T-03,4,2,0,0,0,?,home team win
+M-1934-01,WC-1934,Austria v France,round of 16,5/27/1934,16:00:00,S-081,T-05,T-28,3,2,1,0,0,0,home team win
+M-1934-02,WC-1934,Czechoslovakia v Romania,round of 16,5/27/1934,16:00:00,S-080,T-20,T-59,2,1,0,0,0,0,home team win
+M-1934-03,WC-1934,Germany v Belgium,round of 16,5/27/1934,16:00:00,S-072,T-29,T-06,5,2,0,0,0,0,home team win
+M-1934-04,WC-1934,Hungary v Egypt,round of 16,5/27/1934,16:00:00,S-075,T-34,T-25,4,2,0,0,0,0,home team win
+M-1934-05,WC-1934,Italy v United States,round of 16,5/27/1934,16:00:00,S-078,T-39,T-80,7,1,0,0,0,0,home team win
+M-1934-06,WC-1934,Spain v Brazil,round of 16,5/27/1934,16:00:00,S-073,T-71,T-09,3,1,0,0,0,0,home team win
+M-1934-07,WC-1934,Sweden v Argentina,round of 16,5/27/1934,16:00:00,S-069,T-72,T-03,3,2,0,0,?,0,home team win
+M-1934-08,WC-1934,Switzerland v Netherlands,round of 16,5/27/1934,16:00:00,S-074,T-73,T-46,3,2,0,0,0,?,home team win
+M-1934-09,WC-1934,Austria v Hungary,quarter-finals,5/31/1934,16:30:00,S-069,T-05,T-34,2,1,0,0,0,0,home team win
+M-1934-10,WC-1934,Czechoslovakia v Switzerland,quarter-finals,5/31/1934,16:30:00,S-081,T-20,T-73,3,2,0,0,0,0,home team win
+M-1934-11,WC-1934,Germany v Sweden,quarter-finals,5/31/1934,16:30:00,S-074,T-29,T-72,2,1,0,0,0,0,home team win
+M-1934-12,WC-1934,Italy v Spain,quarter-finals,5/31/1934,16:30:00,S-072,T-39,T-71,1,1,1,0,0,0,draw
+M-1934-13,WC-1934,Italy v Spain,quarter-finals,06/01/1934,16:30:00,S-072,T-39,T-71,1,0,0,0,0,0,home team win
+M-1934-14,WC-1934,Czechoslovakia v Germany,semi-finals,06/03/1934,16:30:00,S-078,T-20,T-29,3,1,0,0,?,?,home team win
+M-1934-15,WC-1934,Italy v Austria,semi-finals,06/03/1934,16:30:00,S-074,T-39,T-05,1,0,0,0,0,0,home team win
+M-1934-16,WC-1934,Germany v Austria,third-place match,06/07/1934,18:00:00,S-075,T-29,T-05,3,2,0,0,0,0,home team win
+M-1934-17,WC-1934,Italy v Czechoslovakia,final,06/10/1934,17:00:00,S-078,T-39,T-20,2,1,1,0,0,0,home team win
+M-1938-01,WC-1938,Switzerland v Germany,round of 16,06/04/1938,17:00:00,S-045,T-73,T-29,1,1,1,0,0,0,draw
+M-1938-02,WC-1938,Cuba v Romania,round of 16,06/05/1938,17:00:00,S-052,T-18,T-59,3,3,1,0,0,0,draw
+M-1938-03,WC-1938,France v Belgium,round of 16,06/05/1938,17:00:00,S-046,T-28,T-06,3,1,0,0,0,0,home team win
+M-1938-04,WC-1938,Hungary v Dutch East Indies,round of 16,06/05/1938,17:00:00,S-047,T-34,T-22,6,0,0,0,?,0,home team win
+M-1938-05,WC-1938,Italy v Norway,round of 16,06/05/1938,17:00:00,S-042,T-39,T-51,2,1,1,0,0,?,home team win
+M-1938-06,WC-1938,Brazil v Poland,round of 16,06/05/1938,17:30:00,S-050,T-09,T-55,6,5,1,0,0,0,home team win
+M-1938-07,WC-1938,Czechoslovakia v Netherlands,round of 16,06/05/1938,18:30:00,S-038,T-20,T-46,3,0,1,0,0,0,home team win
+M-1938-08,WC-1938,Cuba v Romania,round of 16,06/09/1938,18:00:00,S-052,T-18,T-59,2,1,0,0,0,0,home team win
+M-1938-09,WC-1938,Switzerland v Germany,round of 16,06/09/1938,18:00:00,S-045,T-73,T-29,4,2,0,0,?,0,home team win
+M-1938-10,WC-1938,Brazil v Czechoslovakia,quarter-finals,06/12/1938,17:00:00,S-037,T-09,T-20,1,1,1,0,0,0,draw
+M-1938-11,WC-1938,Hungary v Switzerland,quarter-finals,06/12/1938,17:00:00,S-040,T-34,T-73,2,0,0,0,0,0,home team win
+M-1938-12,WC-1938,Italy v France,quarter-finals,06/12/1938,17:00:00,S-046,T-39,T-28,3,1,0,0,0,0,home team win
+M-1938-13,WC-1938,Sweden v Cuba,quarter-finals,06/12/1938,17:00:00,S-036,T-72,T-18,8,0,0,0,0,0,home team win
+M-1938-14,WC-1938,Brazil v Czechoslovakia,quarter-finals,6/14/1938,18:00:00,S-037,T-09,T-20,2,1,0,0,0,0,home team win
+M-1938-15,WC-1938,Hungary v Sweden,semi-finals,6/16/1938,18:00:00,S-045,T-34,T-72,5,1,0,0,0,0,home team win
+M-1938-16,WC-1938,Italy v Brazil,semi-finals,6/16/1938,18:00:00,S-042,T-39,T-09,2,1,0,0,0,0,home team win
+M-1938-17,WC-1938,Brazil v Sweden,third-place match,6/19/1938,17:00:00,S-037,T-09,T-72,4,2,0,0,0,0,home team win
+M-1938-18,WC-1938,Italy v Hungary,final,6/19/1938,17:00:00,S-046,T-39,T-34,4,2,0,0,?,?,home team win
+M-1950-01,WC-1950,Brazil v Mexico,group stage,6/24/1950,15:00:00,S-020,T-09,T-44,4,0,0,0,0,0,home team win
+M-1950-02,WC-1950,Yugoslavia v Switzerland,group stage,6/25/1950,15:00:00,S-007,T-84,T-73,3,0,0,0,0,0,home team win
+M-1950-03,WC-1950,England v Chile,group stage,6/25/1950,15:00:00,S-020,T-27,T-13,2,0,0,0,0,0,home team win
+M-1950-04,WC-1950,Spain v United States,group stage,6/25/1950,15:00:00,S-012,T-71,T-80,3,1,0,0,0,0,home team win
+M-1950-05,WC-1950,Sweden v Italy,group stage,6/25/1950,15:00:00,S-023,T-72,T-39,3,2,0,0,0,0,home team win
+M-1950-06,WC-1950,Brazil v Switzerland,group stage,6/28/1950,15:00:00,S-023,T-09,T-73,2,2,0,0,0,0,draw
+M-1950-07,WC-1950,Yugoslavia v Mexico,group stage,6/28/1950,15:00:00,S-017,T-84,T-44,4,1,0,0,0,0,home team win
+M-1950-08,WC-1950,Spain v Chile,group stage,6/29/1950,15:00:00,S-020,T-71,T-13,2,0,0,0,0,0,home team win
+M-1950-09,WC-1950,United States v England,group stage,6/29/1950,15:00:00,S-007,T-80,T-27,1,0,0,0,0,0,home team win
+M-1950-10,WC-1950,Sweden v Paraguay,group stage,6/29/1950,15:30:00,S-012,T-72,T-53,2,2,0,0,0,0,draw
+M-1950-11,WC-1950,Brazil v Yugoslavia,group stage,07/01/1950,15:00:00,S-020,T-09,T-84,2,0,0,0,0,0,home team win
+M-1950-12,WC-1950,Chile v United States,group stage,07/02/1950,15:00:00,S-019,T-13,T-80,5,2,0,0,0,0,home team win
+M-1950-13,WC-1950,Spain v England,group stage,07/02/1950,15:00:00,S-020,T-71,T-27,1,0,0,0,0,0,home team win
+M-1950-14,WC-1950,Italy v Paraguay,group stage,07/02/1950,15:00:00,S-023,T-39,T-53,2,0,0,0,0,0,home team win
+M-1950-15,WC-1950,Uruguay v Bolivia,group stage,07/02/1950,15:00:00,S-007,T-81,T-07,8,0,0,0,0,0,home team win
+M-1950-16,WC-1950,Switzerland v Mexico,group stage,07/02/1950,15:40:00,S-017,T-73,T-44,2,1,0,0,0,0,home team win
+M-1950-17,WC-1950,Brazil v Sweden,final round,07/09/1950,15:00:00,S-020,T-09,T-72,7,1,0,0,0,0,home team win
+M-1950-18,WC-1950,Uruguay v Spain,final round,07/09/1950,15:00:00,S-023,T-81,T-71,2,2,0,0,0,0,draw
+M-1950-19,WC-1950,Brazil v Spain,final round,7/13/1950,15:00:00,S-020,T-09,T-71,6,1,0,0,0,0,home team win
+M-1950-20,WC-1950,Uruguay v Sweden,final round,7/13/1950,15:00:00,S-023,T-81,T-72,3,2,0,0,0,0,home team win
+M-1950-21,WC-1950,Sweden v Spain,final round,7/16/1950,15:00:00,S-023,T-72,T-71,3,1,0,0,?,?,home team win
+M-1950-22,WC-1950,Uruguay v Brazil,final round,7/16/1950,15:00:00,S-020,T-81,T-09,2,1,0,0,0,0,home team win
+M-1954-01,WC-1954,Brazil v Mexico,group stage,6/16/1954,18:00:00,S-178,T-09,T-44,5,0,0,0,0,0,home team win
+M-1954-02,WC-1954,Yugoslavia v France,group stage,6/16/1954,18:00:00,S-179,T-84,T-28,1,0,0,0,0,0,home team win
+M-1954-03,WC-1954,Austria v Scotland,group stage,6/16/1954,18:00:00,S-181,T-05,T-62,1,0,0,0,0,0,home team win
+M-1954-04,WC-1954,Uruguay v Czechoslovakia,group stage,6/16/1954,18:00:00,S-177,T-81,T-20,2,0,0,0,0,0,home team win
+M-1954-05,WC-1954,Switzerland v Italy,group stage,6/17/1954,17:50:00,S-179,T-73,T-39,2,1,0,0,0,0,home team win
+M-1954-06,WC-1954,Hungary v South Korea,group stage,6/17/1954,18:00:00,S-181,T-34,T-69,9,0,0,0,0,0,home team win
+M-1954-07,WC-1954,West Germany v Turkey,group stage,6/17/1954,18:00:00,S-177,T-83,T-77,4,1,0,0,0,0,home team win
+M-1954-08,WC-1954,England v Belgium,group stage,6/17/1954,18:10:00,S-176,T-27,T-06,4,4,1,0,0,0,draw
+M-1954-09,WC-1954,Uruguay v Scotland,group stage,6/19/1954,16:50:00,S-176,T-81,T-62,7,0,0,0,0,0,home team win
+M-1954-10,WC-1954,Brazil v Yugoslavia,group stage,6/19/1954,17:00:00,S-179,T-09,T-84,1,1,1,0,0,0,draw
+M-1954-11,WC-1954,Austria v Czechoslovakia,group stage,6/19/1954,17:00:00,S-181,T-05,T-20,5,0,0,0,0,0,home team win
+M-1954-12,WC-1954,France v Mexico,group stage,6/19/1954,17:10:00,S-178,T-28,T-44,3,2,0,0,0,0,home team win
+M-1954-13,WC-1954,Hungary v West Germany,group stage,6/20/1954,16:50:00,S-176,T-34,T-83,8,3,0,0,0,0,home team win
+M-1954-14,WC-1954,Turkey v South Korea,group stage,6/20/1954,17:00:00,S-178,T-77,T-69,7,0,0,0,0,0,home team win
+M-1954-15,WC-1954,Italy v Belgium,group stage,6/20/1954,17:00:00,S-180,T-39,T-06,4,1,0,0,0,0,home team win
+M-1954-16,WC-1954,England v Switzerland,group stage,6/20/1954,17:10:00,S-177,T-27,T-73,2,0,0,0,0,0,home team win
+M-1954-17,WC-1954,West Germany v Turkey,group stage,6/23/1954,18:00:00,S-181,T-83,T-77,7,2,0,0,?,0,home team win
+M-1954-18,WC-1954,Switzerland v Italy,group stage,6/23/1954,18:00:00,S-176,T-73,T-39,4,1,0,0,0,0,home team win
+M-1954-19,WC-1954,Austria v Switzerland,quarter-finals,6/26/1954,17:00:00,S-179,T-05,T-73,7,5,0,0,0,0,home team win
+M-1954-20,WC-1954,Uruguay v England,quarter-finals,6/26/1954,17:00:00,S-176,T-81,T-27,4,2,0,0,0,0,home team win
+M-1954-21,WC-1954,Hungary v Brazil,quarter-finals,6/27/1954,17:00:00,S-177,T-34,T-09,4,2,0,0,0,0,home team win
+M-1954-22,WC-1954,West Germany v Yugoslavia,quarter-finals,6/27/1954,17:00:00,S-178,T-83,T-84,2,0,0,0,0,?,home team win
+M-1954-23,WC-1954,Hungary v Uruguay,semi-finals,6/30/1954,18:00:00,S-179,T-34,T-81,4,2,1,0,0,0,home team win
+M-1954-24,WC-1954,West Germany v Austria,semi-finals,6/30/1954,18:00:00,S-176,T-83,T-05,6,1,0,0,0,0,home team win
+M-1954-25,WC-1954,Austria v Uruguay,third-place match,07/03/1954,17:00:00,S-181,T-05,T-81,3,1,0,0,0,0,home team win
+M-1954-26,WC-1954,West Germany v Hungary,final,07/04/1954,17:00:00,S-177,T-83,T-34,3,2,0,0,0,0,home team win
+M-1958-01,WC-1958,Sweden v Mexico,group stage,06/08/1958,14:00:00,S-173,T-72,T-44,3,0,0,0,0,0,home team win
+M-1958-02,WC-1958,Argentina v West Germany,group stage,06/08/1958,19:00:00,S-169,T-03,T-83,1,3,0,0,0,0,away team win
+M-1958-03,WC-1958,Northern Ireland v Czechoslovakia,group stage,06/08/1958,19:00:00,S-167,T-50,T-20,1,0,0,0,0,0,home team win
+M-1958-04,WC-1958,France v Paraguay,group stage,06/08/1958,19:00:00,S-170,T-28,T-53,7,3,0,0,0,0,home team win
+M-1958-05,WC-1958,Yugoslavia v Scotland,group stage,06/08/1958,19:00:00,S-175,T-84,T-62,1,1,0,0,0,0,draw
+M-1958-06,WC-1958,Hungary v Wales,group stage,06/08/1958,19:00:00,S-172,T-34,T-82,1,1,0,0,?,0,draw
+M-1958-07,WC-1958,Brazil v Austria,group stage,06/08/1958,19:00:00,S-174,T-09,T-05,3,0,0,0,0,0,home team win
+M-1958-08,WC-1958,Soviet Union v England,group stage,06/08/1958,19:00:00,S-166,T-70,T-27,2,2,0,0,0,0,draw
+M-1958-09,WC-1958,Argentina v Northern Ireland,group stage,06/11/1958,19:00:00,S-167,T-03,T-50,3,1,0,0,0,?,home team win
+M-1958-10,WC-1958,West Germany v Czechoslovakia,group stage,06/11/1958,19:00:00,S-168,T-83,T-20,2,2,0,0,0,0,draw
+M-1958-11,WC-1958,Paraguay v Scotland,group stage,06/11/1958,19:00:00,S-170,T-53,T-62,3,2,0,0,0,0,home team win
+M-1958-12,WC-1958,Yugoslavia v France,group stage,06/11/1958,19:00:00,S-175,T-84,T-28,3,2,0,0,0,0,home team win
+M-1958-13,WC-1958,Mexico v Wales,group stage,06/11/1958,19:00:00,S-173,T-44,T-82,1,1,0,0,0,0,draw
+M-1958-14,WC-1958,Brazil v England,group stage,06/11/1958,19:00:00,S-166,T-09,T-27,0,0,0,0,0,0,draw
+M-1958-15,WC-1958,Soviet Union v Austria,group stage,06/11/1958,19:00:00,S-164,T-70,T-05,2,0,0,0,0,0,home team win
+M-1958-16,WC-1958,Sweden v Hungary,group stage,06/12/1958,19:00:00,S-173,T-72,T-34,2,1,0,0,?,?,home team win
+M-1958-17,WC-1958,Sweden v Wales,group stage,6/15/1958,14:00:00,S-173,T-72,T-82,0,0,0,0,0,0,draw
+M-1958-18,WC-1958,Czechoslovakia v Argentina,group stage,6/15/1958,19:00:00,S-168,T-20,T-03,6,1,0,0,0,0,home team win
+M-1958-19,WC-1958,West Germany v Northern Ireland,group stage,6/15/1958,19:00:00,S-169,T-83,T-50,2,2,0,0,0,0,draw
+M-1958-20,WC-1958,France v Scotland,group stage,6/15/1958,19:00:00,S-171,T-28,T-62,2,1,0,0,0,0,home team win
+M-1958-21,WC-1958,Paraguay v Yugoslavia,group stage,6/15/1958,19:00:00,S-165,T-53,T-84,3,3,0,0,0,0,draw
+M-1958-22,WC-1958,Hungary v Mexico,group stage,6/15/1958,19:00:00,S-172,T-34,T-44,4,0,0,0,0,0,home team win
+M-1958-23,WC-1958,Brazil v Soviet Union,group stage,6/15/1958,19:00:00,S-166,T-09,T-70,2,0,0,0,0,0,home team win
+M-1958-24,WC-1958,England v Austria,group stage,6/15/1958,19:00:00,S-164,T-27,T-05,2,2,0,0,0,0,draw
+M-1958-25,WC-1958,Northern Ireland v Czechoslovakia,group stage,6/17/1958,19:00:00,S-169,T-50,T-20,2,1,1,0,0,0,home team win
+M-1958-26,WC-1958,Wales v Hungary,group stage,6/17/1958,19:00:00,S-173,T-82,T-34,2,1,0,0,0,0,home team win
+M-1958-27,WC-1958,Soviet Union v England,group stage,6/17/1958,19:00:00,S-166,T-70,T-27,1,0,0,0,0,0,home team win
+M-1958-28,WC-1958,Brazil v Wales,quarter-finals,6/19/1958,19:00:00,S-166,T-09,T-82,1,0,0,0,0,0,home team win
+M-1958-29,WC-1958,France v Northern Ireland,quarter-finals,6/19/1958,19:00:00,S-170,T-28,T-50,4,0,0,0,0,0,home team win
+M-1958-30,WC-1958,Sweden v Soviet Union,quarter-finals,6/19/1958,19:00:00,S-173,T-72,T-70,2,0,0,0,0,0,home team win
+M-1958-31,WC-1958,West Germany v Yugoslavia,quarter-finals,6/19/1958,19:00:00,S-169,T-83,T-84,1,0,0,0,0,0,home team win
+M-1958-32,WC-1958,Brazil v France,semi-finals,6/24/1958,19:00:00,S-173,T-09,T-28,5,2,0,0,0,0,home team win
+M-1958-33,WC-1958,Sweden v West Germany,semi-finals,6/24/1958,19:00:00,S-166,T-72,T-83,3,1,0,0,0,0,home team win
+M-1958-34,WC-1958,France v West Germany,third-place match,6/28/1958,17:00:00,S-166,T-28,T-83,6,3,0,0,0,0,home team win
+M-1958-35,WC-1958,Brazil v Sweden,final,6/29/1958,15:00:00,S-173,T-09,T-72,5,2,0,0,0,0,home team win
+M-1962-01,WC-1962,Uruguay v Colombia,group stage,5/30/1962,15:00:00,S-024,T-81,T-15,2,1,0,0,0,0,home team win
+M-1962-02,WC-1962,Chile v Switzerland,group stage,5/30/1962,15:00:00,S-026,T-13,T-73,3,1,0,0,0,0,home team win
+M-1962-03,WC-1962,Brazil v Mexico,group stage,5/30/1962,15:00:00,S-027,T-09,T-44,2,0,0,0,0,0,home team win
+M-1962-04,WC-1962,Argentina v Bulgaria,group stage,5/30/1962,15:00:00,S-025,T-03,T-10,1,0,0,0,?,?,home team win
+M-1962-05,WC-1962,Soviet Union v Yugoslavia,group stage,5/31/1962,15:00:00,S-024,T-70,T-84,2,0,0,0,0,0,home team win
+M-1962-06,WC-1962,West Germany v Italy,group stage,5/31/1962,15:00:00,S-026,T-83,T-39,0,0,0,0,0,0,draw
+M-1962-07,WC-1962,Czechoslovakia v Spain,group stage,5/31/1962,15:00:00,S-027,T-20,T-71,1,0,0,0,0,0,home team win
+M-1962-08,WC-1962,Hungary v England,group stage,5/31/1962,15:00:00,S-025,T-34,T-27,2,1,0,0,0,0,home team win
+M-1962-09,WC-1962,Yugoslavia v Uruguay,group stage,06/02/1962,15:00:00,S-024,T-84,T-81,3,1,0,0,0,0,home team win
+M-1962-10,WC-1962,Chile v Italy,group stage,06/02/1962,15:00:00,S-026,T-13,T-39,2,0,0,0,0,0,home team win
+M-1962-11,WC-1962,Brazil v Czechoslovakia,group stage,06/02/1962,15:00:00,S-027,T-09,T-20,0,0,0,0,0,0,draw
+M-1962-12,WC-1962,England v Argentina,group stage,06/02/1962,15:00:00,S-025,T-27,T-03,3,1,0,0,0,0,home team win
+M-1962-13,WC-1962,Soviet Union v Colombia,group stage,06/03/1962,15:00:00,S-024,T-70,T-15,4,4,0,0,0,0,draw
+M-1962-14,WC-1962,West Germany v Switzerland,group stage,06/03/1962,15:00:00,S-026,T-83,T-73,2,1,0,0,0,0,home team win
+M-1962-15,WC-1962,Spain v Mexico,group stage,06/03/1962,15:00:00,S-027,T-71,T-44,1,0,0,0,0,0,home team win
+M-1962-16,WC-1962,Hungary v Bulgaria,group stage,06/03/1962,15:00:00,S-025,T-34,T-10,6,1,0,0,0,0,home team win
+M-1962-17,WC-1962,Soviet Union v Uruguay,group stage,06/06/1962,15:00:00,S-024,T-70,T-81,2,1,0,0,0,0,home team win
+M-1962-18,WC-1962,West Germany v Chile,group stage,06/06/1962,15:00:00,S-026,T-83,T-13,2,0,0,0,0,0,home team win
+M-1962-19,WC-1962,Brazil v Spain,group stage,06/06/1962,15:00:00,S-027,T-09,T-71,2,1,0,0,0,0,home team win
+M-1962-20,WC-1962,Hungary v Argentina,group stage,06/06/1962,15:00:00,S-025,T-34,T-03,0,0,0,0,0,0,draw
+M-1962-21,WC-1962,Yugoslavia v Colombia,group stage,06/07/1962,15:00:00,S-024,T-84,T-15,5,0,0,0,0,0,home team win
+M-1962-22,WC-1962,Italy v Switzerland,group stage,06/07/1962,15:00:00,S-026,T-39,T-73,3,0,0,0,0,0,home team win
+M-1962-23,WC-1962,Mexico v Czechoslovakia,group stage,06/07/1962,15:00:00,S-027,T-44,T-20,3,1,0,0,0,0,home team win
+M-1962-24,WC-1962,England v Bulgaria,group stage,06/07/1962,15:00:00,S-025,T-27,T-10,0,0,0,0,0,0,draw
+M-1962-25,WC-1962,Brazil v England,quarter-finals,06/10/1962,14:30:00,S-027,T-09,T-27,3,1,0,0,0,0,home team win
+M-1962-26,WC-1962,Chile v Soviet Union,quarter-finals,06/10/1962,14:30:00,S-024,T-13,T-70,2,1,0,0,0,0,home team win
+M-1962-27,WC-1962,Czechoslovakia v Hungary,quarter-finals,06/10/1962,14:30:00,S-025,T-20,T-34,1,0,0,0,?,?,home team win
+M-1962-28,WC-1962,Yugoslavia v West Germany,quarter-finals,06/10/1962,14:30:00,S-026,T-84,T-83,1,0,0,0,0,0,home team win
+M-1962-29,WC-1962,Brazil v Chile,semi-finals,6/13/1962,14:30:00,S-026,T-09,T-13,4,2,0,0,0,0,home team win
+M-1962-30,WC-1962,Czechoslovakia v Yugoslavia,semi-finals,6/13/1962,14:30:00,S-027,T-20,T-84,3,1,0,0,0,0,home team win
+M-1962-31,WC-1962,Chile v Yugoslavia,third-place match,6/16/1962,14:30:00,S-026,T-13,T-84,1,0,0,0,0,0,home team win
+M-1962-32,WC-1962,Brazil v Czechoslovakia,final,6/17/1962,14:30:00,S-026,T-09,T-20,3,1,0,0,0,0,home team win
+M-1966-01,WC-1966,England v Uruguay,group stage,07/11/1966,19:30:00,S-030,T-27,T-81,0,0,0,0,0,0,draw
+M-1966-02,WC-1966,West Germany v Switzerland,group stage,07/12/1966,19:30:00,S-034,T-83,T-73,5,0,0,0,0,0,home team win
+M-1966-03,WC-1966,Brazil v Bulgaria,group stage,07/12/1966,19:30:00,S-029,T-09,T-10,2,0,0,0,0,0,home team win
+M-1966-04,WC-1966,Soviet Union v North Korea,group stage,07/12/1966,19:30:00,S-033,T-70,T-49,3,0,0,0,0,0,home team win
+M-1966-05,WC-1966,France v Mexico,group stage,7/13/1966,19:30:00,S-030,T-28,T-44,1,1,0,0,0,0,draw
+M-1966-06,WC-1966,Argentina v Spain,group stage,7/13/1966,19:30:00,S-028,T-03,T-71,2,1,0,0,0,0,home team win
+M-1966-07,WC-1966,Portugal v Hungary,group stage,7/13/1966,19:30:00,S-032,T-56,T-34,3,1,0,0,0,0,home team win
+M-1966-08,WC-1966,Italy v Chile,group stage,7/13/1966,19:30:00,S-035,T-39,T-13,2,0,0,0,0,0,home team win
+M-1966-09,WC-1966,Uruguay v France,group stage,7/15/1966,19:30:00,S-031,T-81,T-28,2,1,0,0,0,0,home team win
+M-1966-10,WC-1966,Spain v Switzerland,group stage,7/15/1966,19:30:00,S-034,T-71,T-73,2,1,0,0,0,0,home team win
+M-1966-11,WC-1966,Hungary v Brazil,group stage,7/15/1966,19:30:00,S-029,T-34,T-09,3,1,0,0,0,0,home team win
+M-1966-12,WC-1966,Chile v North Korea,group stage,7/15/1966,19:30:00,S-033,T-13,T-49,1,1,0,0,0,0,draw
+M-1966-13,WC-1966,Argentina v West Germany,group stage,7/16/1966,15:00:00,S-028,T-03,T-83,0,0,0,0,0,0,draw
+M-1966-14,WC-1966,Portugal v Bulgaria,group stage,7/16/1966,15:00:00,S-032,T-56,T-10,3,0,0,0,0,0,home team win
+M-1966-15,WC-1966,Soviet Union v Italy,group stage,7/16/1966,15:00:00,S-035,T-70,T-39,1,0,0,0,0,0,home team win
+M-1966-16,WC-1966,England v Mexico,group stage,7/16/1966,19:30:00,S-030,T-27,T-44,2,0,0,0,0,0,home team win
+M-1966-17,WC-1966,Mexico v Uruguay,group stage,7/19/1966,16:30:00,S-030,T-44,T-81,0,0,0,0,0,0,draw
+M-1966-18,WC-1966,Argentina v Switzerland,group stage,7/19/1966,19:30:00,S-034,T-03,T-73,2,0,0,0,0,0,home team win
+M-1966-19,WC-1966,Portugal v Brazil,group stage,7/19/1966,19:30:00,S-029,T-56,T-09,3,1,0,0,0,0,home team win
+M-1966-20,WC-1966,North Korea v Italy,group stage,7/19/1966,19:30:00,S-033,T-49,T-39,1,0,0,0,0,0,home team win
+M-1966-21,WC-1966,England v France,group stage,7/20/1966,19:30:00,S-030,T-27,T-28,2,0,0,0,0,0,home team win
+M-1966-22,WC-1966,West Germany v Spain,group stage,7/20/1966,19:30:00,S-028,T-83,T-71,2,1,0,0,0,0,home team win
+M-1966-23,WC-1966,Hungary v Bulgaria,group stage,7/20/1966,19:30:00,S-032,T-34,T-10,3,1,0,0,0,0,home team win
+M-1966-24,WC-1966,Soviet Union v Chile,group stage,7/20/1966,19:30:00,S-035,T-70,T-13,2,1,0,0,0,0,home team win
+M-1966-25,WC-1966,England v Argentina,quarter-finals,7/23/1966,15:00:00,S-030,T-27,T-03,1,0,0,0,?,?,home team win
+M-1966-26,WC-1966,Portugal v North Korea,quarter-finals,7/23/1966,15:00:00,S-029,T-56,T-49,5,3,0,0,0,0,home team win
+M-1966-27,WC-1966,Soviet Union v Hungary,quarter-finals,7/23/1966,15:00:00,S-035,T-70,T-34,2,1,0,0,0,0,home team win
+M-1966-28,WC-1966,West Germany v Uruguay,quarter-finals,7/23/1966,15:00:00,S-034,T-83,T-81,4,0,0,0,0,0,home team win
+M-1966-29,WC-1966,West Germany v Soviet Union,semi-finals,7/25/1966,19:30:00,S-029,T-83,T-70,2,1,0,0,0,0,home team win
+M-1966-30,WC-1966,England v Portugal,semi-finals,7/26/1966,19:30:00,S-030,T-27,T-56,2,1,0,0,0,0,home team win
+M-1966-31,WC-1966,Portugal v Soviet Union,third-place match,7/28/1966,19:30:00,S-030,T-56,T-70,2,1,0,0,0,0,home team win
+M-1966-32,WC-1966,England v West Germany,final,7/30/1966,15:00:00,S-030,T-27,T-83,4,2,1,0,0,0,home team win
+M-1970-01,WC-1970,Mexico v Soviet Union,group stage,5/31/1970,12:00:00,S-099,T-44,T-70,0,0,0,0,0,0,draw
+M-1970-02,WC-1970,Uruguay v Israel,group stage,06/02/1970,16:00:00,S-104,T-81,T-38,2,0,0,0,0,0,home team win
+M-1970-03,WC-1970,England v Romania,group stage,06/02/1970,16:00:00,S-095,T-27,T-59,1,0,0,0,0,0,home team win
+M-1970-04,WC-1970,Peru v Bulgaria,group stage,06/02/1970,16:00:00,S-098,T-54,T-10,3,2,0,0,0,0,home team win
+M-1970-05,WC-1970,Belgium v El Salvador,group stage,06/03/1970,16:00:00,S-099,T-06,T-26,3,0,0,0,0,0,home team win
+M-1970-06,WC-1970,Italy v Sweden,group stage,06/03/1970,16:00:00,S-106,T-39,T-72,1,0,0,0,0,0,home team win
+M-1970-07,WC-1970,Brazil v Czechoslovakia,group stage,06/03/1970,16:00:00,S-095,T-09,T-20,4,1,0,0,0,0,home team win
+M-1970-08,WC-1970,West Germany v Morocco,group stage,06/03/1970,16:00:00,S-098,T-83,T-45,2,1,0,0,0,0,home team win
+M-1970-09,WC-1970,Soviet Union v Belgium,group stage,06/06/1970,16:00:00,S-099,T-70,T-06,4,1,0,0,0,0,home team win
+M-1970-10,WC-1970,Uruguay v Italy,group stage,06/06/1970,16:00:00,S-104,T-81,T-39,0,0,0,0,0,0,draw
+M-1970-11,WC-1970,Romania v Czechoslovakia,group stage,06/06/1970,16:00:00,S-095,T-59,T-20,2,1,0,0,0,0,home team win
+M-1970-12,WC-1970,Peru v Morocco,group stage,06/06/1970,16:00:00,S-098,T-54,T-45,3,0,0,0,0,0,home team win
+M-1970-13,WC-1970,Mexico v El Salvador,group stage,06/07/1970,12:00:00,S-099,T-44,T-26,4,0,0,0,0,0,home team win
+M-1970-14,WC-1970,Sweden v Israel,group stage,06/07/1970,12:00:00,S-106,T-72,T-38,1,1,0,0,0,0,draw
+M-1970-15,WC-1970,Brazil v England,group stage,06/07/1970,12:00:00,S-095,T-09,T-27,1,0,0,0,0,0,home team win
+M-1970-16,WC-1970,West Germany v Bulgaria,group stage,06/07/1970,12:00:00,S-098,T-83,T-10,5,2,0,0,0,0,home team win
+M-1970-17,WC-1970,Soviet Union v El Salvador,group stage,06/10/1970,16:00:00,S-099,T-70,T-26,2,0,0,0,0,0,home team win
+M-1970-18,WC-1970,Sweden v Uruguay,group stage,06/10/1970,16:00:00,S-104,T-72,T-81,1,0,0,0,0,0,home team win
+M-1970-19,WC-1970,Brazil v Romania,group stage,06/10/1970,16:00:00,S-095,T-09,T-59,3,2,0,0,0,0,home team win
+M-1970-20,WC-1970,West Germany v Peru,group stage,06/10/1970,16:00:00,S-098,T-83,T-54,3,1,0,0,0,0,home team win
+M-1970-21,WC-1970,Mexico v Belgium,group stage,06/11/1970,16:00:00,S-099,T-44,T-06,1,0,0,0,0,0,home team win
+M-1970-22,WC-1970,Italy v Israel,group stage,06/11/1970,16:00:00,S-106,T-39,T-38,0,0,0,0,0,0,draw
+M-1970-23,WC-1970,England v Czechoslovakia,group stage,06/11/1970,16:00:00,S-095,T-27,T-20,1,0,0,0,0,0,home team win
+M-1970-24,WC-1970,Bulgaria v Morocco,group stage,06/11/1970,16:00:00,S-098,T-10,T-45,1,1,0,0,0,0,draw
+M-1970-25,WC-1970,Brazil v Peru,quarter-finals,6/14/1970,12:00:00,S-095,T-09,T-54,4,2,0,0,0,0,home team win
+M-1970-26,WC-1970,Italy v Mexico,quarter-finals,6/14/1970,12:00:00,S-106,T-39,T-44,4,1,0,0,?,?,home team win
+M-1970-27,WC-1970,Soviet Union v Uruguay,quarter-finals,6/14/1970,12:00:00,S-099,T-70,T-81,0,1,1,0,0,0,away team win
+M-1970-28,WC-1970,West Germany v England,quarter-finals,6/14/1970,12:00:00,S-098,T-83,T-27,3,2,1,0,0,0,home team win
+M-1970-29,WC-1970,Brazil v Uruguay,semi-finals,6/17/1970,16:00:00,S-095,T-09,T-81,3,1,0,0,0,0,home team win
+M-1970-30,WC-1970,Italy v West Germany,semi-finals,6/17/1970,16:00:00,S-099,T-39,T-83,4,3,1,0,0,0,home team win
+M-1970-31,WC-1970,West Germany v Uruguay,third-place match,6/20/1970,16:00:00,S-099,T-83,T-81,1,0,0,0,0,0,home team win
+M-1970-32,WC-1970,Brazil v Italy,final,6/21/1970,12:00:00,S-099,T-09,T-39,4,1,0,0,0,0,home team win
+M-1974-01,WC-1974,Brazil v Yugoslavia,group stage,6/13/1974,17:00:00,S-057,T-09,T-84,0,0,0,0,0,0,draw
+M-1974-02,WC-1974,West Germany v Chile,group stage,6/14/1974,16:00:00,S-053,T-83,T-13,1,0,0,0,0,0,home team win
+M-1974-03,WC-1974,East Germany v Australia,group stage,6/14/1974,19:30:00,S-060,T-23,T-04,2,0,0,0,0,0,home team win
+M-1974-04,WC-1974,Zaire v Scotland,group stage,6/14/1974,19:30:00,S-055,T-85,T-62,0,2,0,0,0,0,away team win
+M-1974-05,WC-1974,Sweden v Bulgaria,group stage,6/15/1974,16:00:00,S-056,T-72,T-10,0,0,0,0,0,0,draw
+M-1974-06,WC-1974,Uruguay v Netherlands,group stage,6/15/1974,16:00:00,S-061,T-81,T-46,0,2,0,0,0,0,away team win
+M-1974-07,WC-1974,Italy v Haiti,group stage,6/15/1974,18:00:00,S-065,T-39,T-32,3,1,0,0,0,0,home team win
+M-1974-08,WC-1974,Poland v Argentina,group stage,6/15/1974,18:00:00,S-067,T-55,T-03,3,2,0,0,0,0,home team win
+M-1974-09,WC-1974,Australia v West Germany,group stage,6/18/1974,16:00:00,S-060,T-04,T-83,0,3,0,0,0,0,away team win
+M-1974-10,WC-1974,Chile v East Germany,group stage,6/18/1974,19:00:00,S-053,T-13,T-23,1,1,0,0,0,0,draw
+M-1974-11,WC-1974,Scotland v Brazil,group stage,6/18/1974,19:30:00,S-057,T-62,T-09,0,0,0,0,0,0,draw
+M-1974-12,WC-1974,Yugoslavia v Zaire,group stage,6/18/1974,19:30:00,S-059,T-84,T-85,9,0,0,0,0,0,home team win
+M-1974-13,WC-1974,Bulgaria v Uruguay,group stage,6/19/1974,19:30:00,S-061,T-10,T-81,1,1,0,0,0,0,draw
+M-1974-14,WC-1974,Netherlands v Sweden,group stage,6/19/1974,19:30:00,S-055,T-46,T-72,0,0,0,0,0,0,draw
+M-1974-15,WC-1974,Argentina v Italy,group stage,6/19/1974,19:30:00,S-067,T-03,T-39,1,1,0,0,?,?,draw
+M-1974-16,WC-1974,Haiti v Poland,group stage,6/19/1974,19:30:00,S-065,T-32,T-55,0,7,0,0,0,0,away team win
+M-1974-17,WC-1974,Australia v Chile,group stage,6/22/1974,16:00:00,S-053,T-04,T-13,0,0,0,0,0,0,draw
+M-1974-18,WC-1974,Scotland v Yugoslavia,group stage,6/22/1974,16:00:00,S-057,T-62,T-84,1,1,0,0,0,0,draw
+M-1974-19,WC-1974,Zaire v Brazil,group stage,6/22/1974,16:00:00,S-059,T-85,T-09,0,3,0,0,0,0,away team win
+M-1974-20,WC-1974,East Germany v West Germany,group stage,6/22/1974,19:30:00,S-060,T-23,T-83,1,0,0,0,0,0,home team win
+M-1974-21,WC-1974,Bulgaria v Netherlands,group stage,6/23/1974,16:00:00,S-055,T-10,T-46,1,4,0,0,0,0,away team win
+M-1974-22,WC-1974,Sweden v Uruguay,group stage,6/23/1974,16:00:00,S-056,T-72,T-81,3,0,0,0,0,0,home team win
+M-1974-23,WC-1974,Argentina v Haiti,group stage,6/23/1974,16:00:00,S-065,T-03,T-32,4,1,0,0,0,0,home team win
+M-1974-24,WC-1974,Poland v Italy,group stage,6/23/1974,16:00:00,S-067,T-55,T-39,2,1,0,0,0,0,home team win
+M-1974-25,WC-1974,Yugoslavia v West Germany,second group stage,6/26/1974,16:00:00,S-056,T-84,T-83,0,2,0,0,0,0,away team win
+M-1974-26,WC-1974,Brazil v East Germany,second group stage,6/26/1974,19:30:00,S-061,T-09,T-23,1,0,0,0,0,0,home team win
+M-1974-27,WC-1974,Netherlands v Argentina,second group stage,6/26/1974,19:30:00,S-059,T-46,T-03,4,0,0,0,0,0,home team win
+M-1974-28,WC-1974,Sweden v Poland,second group stage,6/26/1974,19:30:00,S-067,T-72,T-55,0,1,0,0,0,0,away team win
+M-1974-29,WC-1974,Argentina v Brazil,second group stage,6/30/1974,16:00:00,S-061,T-03,T-09,1,2,0,0,0,0,away team win
+M-1974-30,WC-1974,East Germany v Netherlands,second group stage,6/30/1974,16:00:00,S-059,T-23,T-46,0,2,0,0,0,0,away team win
+M-1974-31,WC-1974,Poland v Yugoslavia,second group stage,6/30/1974,16:00:00,S-057,T-55,T-84,2,1,0,0,0,0,home team win
+M-1974-32,WC-1974,West Germany v Sweden,second group stage,6/30/1974,19:30:00,S-056,T-83,T-72,4,2,0,0,0,0,home team win
+M-1974-33,WC-1974,Poland v West Germany,second group stage,07/03/1974,16:30:00,S-057,T-55,T-83,0,1,0,0,0,0,away team win
+M-1974-34,WC-1974,Argentina v East Germany,second group stage,07/03/1974,19:30:00,S-059,T-03,T-23,1,1,0,0,0,0,draw
+M-1974-35,WC-1974,Netherlands v Brazil,second group stage,07/03/1974,19:30:00,S-055,T-46,T-09,2,0,0,0,0,0,home team win
+M-1974-36,WC-1974,Sweden v Yugoslavia,second group stage,07/03/1974,19:30:00,S-056,T-72,T-84,2,1,0,0,?,?,home team win
+M-1974-37,WC-1974,Brazil v Poland,third-place match,07/06/1974,16:00:00,S-065,T-09,T-55,0,1,0,0,0,0,away team win
+M-1974-38,WC-1974,Netherlands v West Germany,final,07/07/1974,16:00:00,S-065,T-46,T-83,1,2,0,0,0,0,away team win
+M-1978-01,WC-1978,West Germany v Poland,group stage,06/01/1978,15:00:00,S-002,T-83,T-55,0,0,0,0,0,0,draw
+M-1978-02,WC-1978,Italy v France,group stage,06/02/1978,13:45:00,S-004,T-39,T-28,2,1,0,0,0,0,home team win
+M-1978-03,WC-1978,Tunisia v Mexico,group stage,06/02/1978,16:45:00,S-006,T-76,T-44,3,1,0,0,0,0,home team win
+M-1978-04,WC-1978,Argentina v Hungary,group stage,06/02/1978,19:15:00,S-002,T-03,T-34,2,1,0,0,0,0,home team win
+M-1978-05,WC-1978,Austria v Spain,group stage,06/03/1978,13:45:00,S-001,T-05,T-71,2,1,0,0,0,0,home team win
+M-1978-06,WC-1978,Brazil v Sweden,group stage,06/03/1978,13:45:00,S-004,T-09,T-72,1,1,0,0,0,0,draw
+M-1978-07,WC-1978,Netherlands v Iran,group stage,06/03/1978,16:45:00,S-005,T-46,T-36,3,0,0,0,0,0,home team win
+M-1978-08,WC-1978,Peru v Scotland,group stage,06/03/1978,16:45:00,S-003,T-54,T-62,3,1,0,0,0,0,home team win
+M-1978-09,WC-1978,Italy v Hungary,group stage,06/06/1978,13:45:00,S-004,T-39,T-34,3,1,0,0,0,0,home team win
+M-1978-10,WC-1978,Poland v Tunisia,group stage,06/06/1978,16:45:00,S-006,T-55,T-76,1,0,0,0,0,0,home team win
+M-1978-11,WC-1978,West Germany v Mexico,group stage,06/06/1978,16:45:00,S-003,T-83,T-44,6,0,0,0,0,0,home team win
+M-1978-12,WC-1978,Argentina v France,group stage,06/06/1978,19:15:00,S-002,T-03,T-28,2,1,0,0,0,0,home team win
+M-1978-13,WC-1978,Austria v Sweden,group stage,06/07/1978,13:45:00,S-001,T-05,T-72,1,0,0,0,0,0,home team win
+M-1978-14,WC-1978,Brazil v Spain,group stage,06/07/1978,13:45:00,S-004,T-09,T-71,0,0,0,0,0,0,draw
+M-1978-15,WC-1978,Netherlands v Peru,group stage,06/07/1978,16:45:00,S-005,T-46,T-54,0,0,0,0,0,0,draw
+M-1978-16,WC-1978,Scotland v Iran,group stage,06/07/1978,16:45:00,S-003,T-62,T-36,1,1,0,0,0,0,draw
+M-1978-17,WC-1978,France v Hungary,group stage,06/10/1978,14:30:00,S-004,T-28,T-34,3,1,0,0,0,0,home team win
+M-1978-18,WC-1978,Poland v Mexico,group stage,06/10/1978,16:45:00,S-006,T-55,T-44,3,1,0,0,0,0,home team win
+M-1978-19,WC-1978,West Germany v Tunisia,group stage,06/10/1978,16:45:00,S-003,T-83,T-76,0,0,0,0,0,0,draw
+M-1978-20,WC-1978,Argentina v Italy,group stage,06/10/1978,19:15:00,S-002,T-03,T-39,0,1,0,0,0,0,away team win
+M-1978-21,WC-1978,Brazil v Austria,group stage,06/11/1978,13:45:00,S-004,T-09,T-05,1,0,0,0,0,0,home team win
+M-1978-22,WC-1978,Spain v Sweden,group stage,06/11/1978,13:45:00,S-001,T-71,T-72,1,0,0,0,0,0,home team win
+M-1978-23,WC-1978,Peru v Iran,group stage,06/11/1978,16:45:00,S-003,T-54,T-36,4,1,0,0,0,0,home team win
+M-1978-24,WC-1978,Scotland v Netherlands,group stage,06/11/1978,16:45:00,S-005,T-62,T-46,3,2,0,0,0,0,home team win
+M-1978-25,WC-1978,Austria v Netherlands,second group stage,6/14/1978,13:45:00,S-003,T-05,T-46,1,5,0,0,0,0,away team win
+M-1978-26,WC-1978,Italy v West Germany,second group stage,6/14/1978,13:45:00,S-002,T-39,T-83,0,0,0,0,0,0,draw
+M-1978-27,WC-1978,Brazil v Peru,second group stage,6/14/1978,16:45:00,S-005,T-09,T-54,3,0,0,0,0,0,home team win
+M-1978-28,WC-1978,Argentina v Poland,second group stage,6/14/1978,19:15:00,S-006,T-03,T-55,2,0,0,0,0,0,home team win
+M-1978-29,WC-1978,Peru v Poland,second group stage,6/18/1978,13:45:00,S-005,T-54,T-55,0,1,0,0,0,0,away team win
+M-1978-30,WC-1978,Italy v Austria,second group stage,6/18/1978,16:45:00,S-002,T-39,T-05,1,0,0,0,0,0,home team win
+M-1978-31,WC-1978,Netherlands v West Germany,second group stage,6/18/1978,16:45:00,S-003,T-46,T-83,2,2,0,0,0,0,draw
+M-1978-32,WC-1978,Argentina v Brazil,second group stage,6/18/1978,19:15:00,S-006,T-03,T-09,0,0,0,0,?,?,draw
+M-1978-33,WC-1978,Austria v West Germany,second group stage,6/21/1978,13:45:00,S-003,T-05,T-83,3,2,0,0,0,0,home team win
+M-1978-34,WC-1978,Italy v Netherlands,second group stage,6/21/1978,13:45:00,S-002,T-39,T-46,1,2,0,0,0,0,away team win
+M-1978-35,WC-1978,Brazil v Poland,second group stage,6/21/1978,16:45:00,S-005,T-09,T-55,3,1,0,0,0,0,home team win
+M-1978-36,WC-1978,Argentina v Peru,second group stage,6/21/1978,19:15:00,S-006,T-03,T-54,6,0,0,0,0,0,home team win
+M-1978-37,WC-1978,Brazil v Italy,third-place match,6/24/1978,15:00:00,S-002,T-09,T-39,2,1,0,0,0,0,home team win
+M-1978-38,WC-1978,Argentina v Netherlands,final,6/25/1978,15:00:00,S-002,T-03,T-46,3,1,1,0,0,0,home team win
+M-1982-01,WC-1982,Argentina v Belgium,group stage,6/13/1982,20:00:00,S-149,T-03,T-06,0,1,0,0,0,0,away team win
+M-1982-02,WC-1982,Italy v Poland,group stage,6/14/1982,17:15:00,S-162,T-39,T-55,0,0,0,0,0,0,draw
+M-1982-03,WC-1982,Brazil v Soviet Union,group stage,6/14/1982,21:00:00,S-159,T-09,T-70,2,1,0,0,0,0,home team win
+M-1982-04,WC-1982,Peru v Cameroon,group stage,6/15/1982,17:15:00,S-147,T-54,T-11,0,0,0,0,0,0,draw
+M-1982-05,WC-1982,Hungary v El Salvador,group stage,6/15/1982,21:00:00,S-152,T-34,T-26,10,1,0,0,0,0,home team win
+M-1982-06,WC-1982,Scotland v New Zealand,group stage,6/15/1982,21:00:00,S-156,T-62,T-47,5,2,0,0,0,0,home team win
+M-1982-07,WC-1982,West Germany v Algeria,group stage,6/16/1982,17:15:00,S-153,T-83,T-01,1,2,0,0,0,0,away team win
+M-1982-08,WC-1982,England v France,group stage,6/16/1982,17:15:00,S-151,T-27,T-28,3,1,0,0,0,0,home team win
+M-1982-09,WC-1982,Spain v Honduras,group stage,6/16/1982,21:00:00,S-160,T-71,T-33,1,1,0,0,0,0,draw
+M-1982-10,WC-1982,Chile v Austria,group stage,6/17/1982,17:15:00,S-157,T-13,T-05,0,1,0,0,0,0,away team win
+M-1982-11,WC-1982,Czechoslovakia v Kuwait,group stage,6/17/1982,17:15:00,S-161,T-20,T-43,1,1,0,0,0,0,draw
+M-1982-12,WC-1982,Yugoslavia v Northern Ireland,group stage,6/17/1982,21:00:00,S-163,T-84,T-50,0,0,0,0,0,0,draw
+M-1982-13,WC-1982,Italy v Peru,group stage,6/18/1982,17:15:00,S-162,T-39,T-54,1,1,0,0,0,0,draw
+M-1982-14,WC-1982,Argentina v Hungary,group stage,6/18/1982,21:00:00,S-148,T-03,T-34,4,1,0,0,0,0,home team win
+M-1982-15,WC-1982,Brazil v Scotland,group stage,6/18/1982,21:00:00,S-158,T-09,T-62,4,1,0,0,0,0,home team win
+M-1982-16,WC-1982,Poland v Cameroon,group stage,6/19/1982,17:15:00,S-147,T-55,T-11,0,0,0,0,0,0,draw
+M-1982-17,WC-1982,Belgium v El Salvador,group stage,6/19/1982,21:00:00,S-152,T-06,T-26,1,0,0,0,0,0,home team win
+M-1982-18,WC-1982,Soviet Union v New Zealand,group stage,6/19/1982,21:00:00,S-156,T-70,T-47,3,0,0,0,0,0,home team win
+M-1982-19,WC-1982,West Germany v Chile,group stage,6/20/1982,17:15:00,S-153,T-83,T-13,4,1,0,0,0,0,home team win
+M-1982-20,WC-1982,England v Czechoslovakia,group stage,6/20/1982,17:15:00,S-151,T-27,T-20,2,0,0,0,0,0,home team win
+M-1982-21,WC-1982,Spain v Yugoslavia,group stage,6/20/1982,21:00:00,S-160,T-71,T-84,2,1,0,0,0,0,home team win
+M-1982-22,WC-1982,Algeria v Austria,group stage,6/21/1982,17:15:00,S-157,T-01,T-05,0,2,0,0,0,0,away team win
+M-1982-23,WC-1982,France v Kuwait,group stage,6/21/1982,17:15:00,S-161,T-28,T-43,4,1,0,0,0,0,home team win
+M-1982-24,WC-1982,Honduras v Northern Ireland,group stage,6/21/1982,21:00:00,S-163,T-33,T-50,1,1,0,0,0,0,draw
+M-1982-25,WC-1982,Poland v Peru,group stage,6/22/1982,17:15:00,S-147,T-55,T-54,5,1,0,0,0,0,home team win
+M-1982-26,WC-1982,Belgium v Hungary,group stage,6/22/1982,21:00:00,S-152,T-06,T-34,1,1,0,0,?,?,draw
+M-1982-27,WC-1982,Soviet Union v Scotland,group stage,6/22/1982,21:00:00,S-156,T-70,T-62,2,2,0,0,0,0,draw
+M-1982-28,WC-1982,Italy v Cameroon,group stage,6/23/1982,17:15:00,S-162,T-39,T-11,1,1,0,0,0,0,draw
+M-1982-29,WC-1982,Argentina v El Salvador,group stage,6/23/1982,21:00:00,S-148,T-03,T-26,2,0,0,0,0,0,home team win
+M-1982-30,WC-1982,Brazil v New Zealand,group stage,6/23/1982,21:00:00,S-158,T-09,T-47,4,0,0,0,0,0,home team win
+M-1982-31,WC-1982,Algeria v Chile,group stage,6/24/1982,17:15:00,S-157,T-01,T-13,3,2,0,0,0,0,home team win
+M-1982-32,WC-1982,France v Czechoslovakia,group stage,6/24/1982,17:15:00,S-161,T-28,T-20,1,1,0,0,0,0,draw
+M-1982-33,WC-1982,Honduras v Yugoslavia,group stage,6/24/1982,21:00:00,S-163,T-33,T-84,0,1,0,0,0,0,away team win
+M-1982-34,WC-1982,West Germany v Austria,group stage,6/25/1982,17:15:00,S-153,T-83,T-05,1,0,0,0,0,0,home team win
+M-1982-35,WC-1982,England v Kuwait,group stage,6/25/1982,17:15:00,S-151,T-27,T-43,1,0,0,0,0,0,home team win
+M-1982-36,WC-1982,Spain v Northern Ireland,group stage,6/25/1982,21:00:00,S-160,T-71,T-50,0,1,0,0,0,0,away team win
+M-1982-37,WC-1982,Austria v France,second group stage,6/28/1982,17:15:00,S-155,T-05,T-28,0,1,0,0,0,0,away team win
+M-1982-38,WC-1982,Poland v Belgium,second group stage,6/28/1982,21:00:00,S-149,T-55,T-06,3,0,0,0,0,0,home team win
+M-1982-39,WC-1982,Italy v Argentina,second group stage,6/29/1982,17:15:00,S-150,T-39,T-03,2,1,0,0,0,0,home team win
+M-1982-40,WC-1982,West Germany v England,second group stage,6/29/1982,21:00:00,S-154,T-83,T-27,0,0,0,0,0,0,draw
+M-1982-41,WC-1982,Austria v Northern Ireland,second group stage,07/01/1982,17:15:00,S-155,T-05,T-50,2,2,0,0,0,0,draw
+M-1982-42,WC-1982,Belgium v Soviet Union,second group stage,07/01/1982,21:00:00,S-149,T-06,T-70,0,1,0,0,0,0,away team win
+M-1982-43,WC-1982,Argentina v Brazil,second group stage,07/02/1982,17:15:00,S-150,T-03,T-09,1,3,0,0,0,0,away team win
+M-1982-44,WC-1982,West Germany v Spain,second group stage,07/02/1982,21:00:00,S-154,T-83,T-71,2,1,0,0,0,0,home team win
+M-1982-45,WC-1982,France v Northern Ireland,second group stage,07/04/1982,17:15:00,S-155,T-28,T-50,4,1,0,0,0,0,home team win
+M-1982-46,WC-1982,Soviet Union v Poland,second group stage,07/04/1982,21:00:00,S-149,T-70,T-55,0,0,0,0,0,0,draw
+M-1982-47,WC-1982,Italy v Brazil,second group stage,07/05/1982,17:15:00,S-150,T-39,T-09,3,2,0,0,0,0,home team win
+M-1982-48,WC-1982,Spain v England,second group stage,07/05/1982,21:00:00,S-154,T-71,T-27,0,0,0,0,0,0,draw
+M-1982-49,WC-1982,Poland v Italy,semi-finals,07/08/1982,17:15:00,S-149,T-55,T-39,0,2,0,0,0,0,away team win
+M-1982-50,WC-1982,West Germany v France,semi-finals,07/08/1982,21:00:00,S-159,T-83,T-28,3,3,1,1,0,4,home team win
+M-1982-51,WC-1982,Poland v France,third-place match,07/10/1982,20:00:00,S-148,T-55,T-28,3,2,0,0,0,0,home team win
+M-1982-52,WC-1982,Italy v West Germany,final,07/11/1982,20:00:00,S-154,T-39,T-83,3,1,0,0,0,0,home team win
+M-1986-01,WC-1986,Bulgaria v Italy,group stage,5/31/1986,12:00:00,S-099,T-10,T-39,1,1,0,0,?,?,draw
+M-1986-02,WC-1986,Spain v Brazil,group stage,06/01/1986,12:00:00,S-095,T-71,T-09,0,1,0,0,0,0,away team win
+M-1986-03,WC-1986,Canada v France,group stage,06/01/1986,16:00:00,S-098,T-12,T-28,0,1,0,0,0,0,away team win
+M-1986-04,WC-1986,Argentina v South Korea,group stage,06/02/1986,12:00:00,S-100,T-03,T-69,3,1,0,0,0,0,home team win
+M-1986-05,WC-1986,Soviet Union v Hungary,group stage,06/02/1986,12:00:00,S-097,T-70,T-34,6,0,0,0,0,0,home team win
+M-1986-06,WC-1986,Morocco v Poland,group stage,06/02/1986,16:00:00,S-102,T-45,T-55,0,0,0,0,0,0,draw
+M-1986-07,WC-1986,Belgium v Mexico,group stage,06/03/1986,12:00:00,S-099,T-06,T-44,1,2,0,0,0,0,away team win
+M-1986-08,WC-1986,Algeria v Northern Ireland,group stage,06/03/1986,12:00:00,S-096,T-01,T-50,1,1,0,0,0,0,draw
+M-1986-09,WC-1986,Portugal v England,group stage,06/03/1986,16:00:00,S-101,T-56,T-27,1,0,0,0,0,0,home team win
+M-1986-10,WC-1986,Paraguay v Iraq,group stage,06/04/1986,12:00:00,S-106,T-53,T-37,1,0,0,0,0,0,home team win
+M-1986-11,WC-1986,Uruguay v West Germany,group stage,06/04/1986,12:00:00,S-105,T-81,T-83,1,1,0,0,0,0,draw
+M-1986-12,WC-1986,Scotland v Denmark,group stage,06/04/1986,16:00:00,S-103,T-62,T-21,0,1,0,0,0,0,away team win
+M-1986-13,WC-1986,Italy v Argentina,group stage,06/05/1986,12:00:00,S-104,T-39,T-03,1,1,0,0,0,0,draw
+M-1986-14,WC-1986,France v Soviet Union,group stage,06/05/1986,12:00:00,S-098,T-28,T-70,1,1,0,0,0,0,draw
+M-1986-15,WC-1986,South Korea v Bulgaria,group stage,06/05/1986,16:00:00,S-100,T-69,T-10,1,1,0,0,0,0,draw
+M-1986-16,WC-1986,Hungary v Canada,group stage,06/06/1986,12:00:00,S-097,T-34,T-12,2,0,0,0,0,0,home team win
+M-1986-17,WC-1986,Brazil v Algeria,group stage,06/06/1986,12:00:00,S-095,T-09,T-01,1,0,0,0,0,0,home team win
+M-1986-18,WC-1986,England v Morocco,group stage,06/06/1986,16:00:00,S-101,T-27,T-45,0,0,0,0,0,0,draw
+M-1986-19,WC-1986,Mexico v Paraguay,group stage,06/07/1986,12:00:00,S-099,T-44,T-53,1,1,0,0,0,0,draw
+M-1986-20,WC-1986,Northern Ireland v Spain,group stage,06/07/1986,12:00:00,S-096,T-50,T-71,1,2,0,0,0,0,away team win
+M-1986-21,WC-1986,Poland v Portugal,group stage,06/07/1986,16:00:00,S-102,T-55,T-56,1,0,0,0,0,0,home team win
+M-1986-22,WC-1986,Iraq v Belgium,group stage,06/08/1986,12:00:00,S-106,T-37,T-06,1,2,0,0,0,0,away team win
+M-1986-23,WC-1986,West Germany v Scotland,group stage,06/08/1986,12:00:00,S-105,T-83,T-62,2,1,0,0,0,0,home team win
+M-1986-24,WC-1986,Denmark v Uruguay,group stage,06/08/1986,16:00:00,S-103,T-21,T-81,6,1,0,0,?,0,home team win
+M-1986-25,WC-1986,Hungary v France,group stage,06/09/1986,12:00:00,S-098,T-34,T-28,0,3,0,0,0,?,away team win
+M-1986-26,WC-1986,Soviet Union v Canada,group stage,06/09/1986,12:00:00,S-097,T-70,T-12,2,0,0,0,0,0,home team win
+M-1986-27,WC-1986,Argentina v Bulgaria,group stage,06/10/1986,12:00:00,S-100,T-03,T-10,2,0,0,0,0,0,home team win
+M-1986-28,WC-1986,South Korea v Italy,group stage,06/10/1986,12:00:00,S-104,T-69,T-39,2,3,0,0,0,0,away team win
+M-1986-29,WC-1986,Iraq v Mexico,group stage,06/11/1986,12:00:00,S-099,T-37,T-44,0,1,0,0,0,0,away team win
+M-1986-30,WC-1986,Paraguay v Belgium,group stage,06/11/1986,12:00:00,S-106,T-53,T-06,2,2,0,0,0,0,draw
+M-1986-31,WC-1986,England v Poland,group stage,06/11/1986,16:00:00,S-102,T-27,T-55,3,0,0,0,0,0,home team win
+M-1986-32,WC-1986,Portugal v Morocco,group stage,06/11/1986,16:00:00,S-096,T-56,T-45,1,3,0,0,0,0,away team win
+M-1986-33,WC-1986,Algeria v Spain,group stage,06/12/1986,12:00:00,S-101,T-01,T-71,0,3,0,0,0,0,away team win
+M-1986-34,WC-1986,Northern Ireland v Brazil,group stage,06/12/1986,12:00:00,S-095,T-50,T-09,0,3,0,0,0,0,away team win
+M-1986-35,WC-1986,Denmark v West Germany,group stage,6/13/1986,12:00:00,S-105,T-21,T-83,2,0,0,0,0,0,home team win
+M-1986-36,WC-1986,Scotland v Uruguay,group stage,6/13/1986,12:00:00,S-103,T-62,T-81,0,0,0,0,0,0,draw
+M-1986-37,WC-1986,Mexico v Bulgaria,round of 16,6/15/1986,12:00:00,S-099,T-44,T-10,2,0,0,0,0,0,home team win
+M-1986-38,WC-1986,Soviet Union v Belgium,round of 16,6/15/1986,16:00:00,S-098,T-70,T-06,3,4,1,0,0,0,away team win
+M-1986-39,WC-1986,Brazil v Poland,round of 16,6/16/1986,12:00:00,S-095,T-09,T-55,4,0,0,0,0,0,home team win
+M-1986-40,WC-1986,Argentina v Uruguay,round of 16,6/16/1986,16:00:00,S-104,T-03,T-81,1,0,0,0,0,0,home team win
+M-1986-41,WC-1986,Italy v France,round of 16,6/17/1986,12:00:00,S-100,T-39,T-28,0,2,0,0,0,0,away team win
+M-1986-42,WC-1986,Morocco v West Germany,round of 16,6/17/1986,16:00:00,S-102,T-45,T-83,0,1,0,0,0,0,away team win
+M-1986-43,WC-1986,England v Paraguay,round of 16,6/18/1986,12:00:00,S-099,T-27,T-53,3,0,0,0,0,0,home team win
+M-1986-44,WC-1986,Denmark v Spain,round of 16,6/18/1986,16:00:00,S-105,T-21,T-71,1,5,0,0,0,0,away team win
+M-1986-45,WC-1986,Brazil v France,quarter-finals,6/21/1986,12:00:00,S-095,T-09,T-28,1,1,1,1,0,4,away team win
+M-1986-46,WC-1986,West Germany v Mexico,quarter-finals,6/21/1986,16:00:00,S-102,T-83,T-44,0,0,1,1,0,1,home team win
+M-1986-47,WC-1986,Argentina v England,quarter-finals,6/22/1986,12:00:00,S-099,T-03,T-27,2,1,0,0,0,0,home team win
+M-1986-48,WC-1986,Spain v Belgium,quarter-finals,6/22/1986,16:00:00,S-104,T-71,T-06,1,1,1,1,0,5,away team win
+M-1986-49,WC-1986,France v West Germany,semi-finals,6/25/1986,12:00:00,S-095,T-28,T-83,0,2,0,0,0,0,away team win
+M-1986-50,WC-1986,Argentina v Belgium,semi-finals,6/25/1986,16:00:00,S-099,T-03,T-06,2,0,0,0,0,0,home team win
+M-1986-51,WC-1986,Belgium v France,third-place match,6/28/1986,12:00:00,S-104,T-06,T-28,2,4,1,0,0,0,away team win
+M-1986-52,WC-1986,Argentina v West Germany,final,6/29/1986,12:00:00,S-099,T-03,T-83,3,2,0,0,0,0,home team win
+M-1990-01,WC-1990,Argentina v Cameroon,group stage,06/08/1990,18:00:00,S-074,T-03,T-11,0,1,0,0,0,0,away team win
+M-1990-02,WC-1990,Soviet Union v Romania,group stage,06/09/1990,17:00:00,S-068,T-70,T-59,0,2,0,0,0,0,away team win
+M-1990-03,WC-1990,United Arab Emirates v Colombia,group stage,06/09/1990,17:00:00,S-069,T-79,T-15,0,2,0,0,0,0,away team win
+M-1990-04,WC-1990,Italy v Austria,group stage,06/09/1990,21:00:00,S-079,T-39,T-05,1,0,0,0,0,0,home team win
+M-1990-05,WC-1990,United States v Czechoslovakia,group stage,06/10/1990,17:00:00,S-071,T-80,T-20,1,5,0,0,0,0,away team win
+M-1990-06,WC-1990,Brazil v Sweden,group stage,06/10/1990,21:00:00,S-082,T-09,T-72,2,1,0,0,0,0,home team win
+M-1990-07,WC-1990,West Germany v Yugoslavia,group stage,06/10/1990,21:00:00,S-074,T-83,T-84,4,1,0,0,0,0,home team win
+M-1990-08,WC-1990,Costa Rica v Scotland,group stage,06/11/1990,17:00:00,S-073,T-16,T-62,1,0,0,0,?,0,home team win
+M-1990-09,WC-1990,England v Republic of Ireland,group stage,06/11/1990,21:00:00,S-070,T-27,T-58,1,1,0,0,0,?,draw
+M-1990-10,WC-1990,Belgium v South Korea,group stage,06/12/1990,17:00:00,S-084,T-06,T-69,2,0,0,0,0,0,home team win
+M-1990-11,WC-1990,Netherlands v Egypt,group stage,06/12/1990,21:00:00,S-077,T-46,T-25,1,1,0,0,0,0,draw
+M-1990-12,WC-1990,Uruguay v Spain,group stage,6/13/1990,17:00:00,S-083,T-81,T-71,0,0,0,0,0,0,draw
+M-1990-13,WC-1990,Argentina v Soviet Union,group stage,6/13/1990,21:00:00,S-076,T-03,T-70,2,0,0,0,0,0,home team win
+M-1990-14,WC-1990,Cameroon v Romania,group stage,6/14/1990,17:00:00,S-068,T-11,T-59,2,1,0,0,0,0,home team win
+M-1990-15,WC-1990,Yugoslavia v Colombia,group stage,6/14/1990,17:00:00,S-069,T-84,T-15,1,0,0,0,0,0,home team win
+M-1990-16,WC-1990,Italy v United States,group stage,6/14/1990,21:00:00,S-079,T-39,T-80,1,0,0,0,0,0,home team win
+M-1990-17,WC-1990,Austria v Czechoslovakia,group stage,6/15/1990,17:00:00,S-071,T-05,T-20,0,1,0,0,0,0,away team win
+M-1990-18,WC-1990,West Germany v United Arab Emirates,group stage,6/15/1990,21:00:00,S-074,T-83,T-79,5,1,0,0,0,0,home team win
+M-1990-19,WC-1990,Brazil v Costa Rica,group stage,6/16/1990,17:00:00,S-082,T-09,T-16,1,0,0,0,0,0,home team win
+M-1990-20,WC-1990,Sweden v Scotland,group stage,6/16/1990,21:00:00,S-073,T-72,T-62,1,2,0,0,0,0,away team win
+M-1990-21,WC-1990,England v Netherlands,group stage,6/16/1990,21:00:00,S-070,T-27,T-46,0,0,0,0,0,0,draw
+M-1990-22,WC-1990,Republic of Ireland v Egypt,group stage,6/17/1990,17:00:00,S-077,T-58,T-25,0,0,0,0,0,0,draw
+M-1990-23,WC-1990,Belgium v Uruguay,group stage,6/17/1990,21:00:00,S-084,T-06,T-81,3,1,0,0,0,0,home team win
+M-1990-24,WC-1990,South Korea v Spain,group stage,6/17/1990,21:00:00,S-083,T-69,T-71,1,3,0,0,0,0,away team win
+M-1990-25,WC-1990,Argentina v Romania,group stage,6/18/1990,21:00:00,S-076,T-03,T-59,1,1,0,0,0,0,draw
+M-1990-26,WC-1990,Cameroon v Soviet Union,group stage,6/18/1990,21:00:00,S-068,T-11,T-70,0,4,0,0,0,0,away team win
+M-1990-27,WC-1990,West Germany v Colombia,group stage,6/19/1990,17:00:00,S-074,T-83,T-15,1,1,0,0,0,0,draw
+M-1990-28,WC-1990,Yugoslavia v United Arab Emirates,group stage,6/19/1990,17:00:00,S-069,T-84,T-79,4,1,0,0,0,0,home team win
+M-1990-29,WC-1990,Austria v United States,group stage,6/19/1990,21:00:00,S-071,T-05,T-80,2,1,0,0,0,0,home team win
+M-1990-30,WC-1990,Italy v Czechoslovakia,group stage,6/19/1990,21:00:00,S-079,T-39,T-20,2,0,0,0,0,0,home team win
+M-1990-31,WC-1990,Brazil v Scotland,group stage,6/20/1990,21:00:00,S-082,T-09,T-62,1,0,0,0,0,0,home team win
+M-1990-32,WC-1990,Sweden v Costa Rica,group stage,6/20/1990,21:00:00,S-073,T-72,T-16,1,2,0,0,0,0,away team win
+M-1990-33,WC-1990,Belgium v Spain,group stage,6/21/1990,17:00:00,S-084,T-06,T-71,1,2,0,0,0,0,away team win
+M-1990-34,WC-1990,South Korea v Uruguay,group stage,6/21/1990,17:00:00,S-083,T-69,T-81,0,1,0,0,0,0,away team win
+M-1990-35,WC-1990,England v Egypt,group stage,6/21/1990,21:00:00,S-070,T-27,T-25,1,0,0,0,0,0,home team win
+M-1990-36,WC-1990,Republic of Ireland v Netherlands,group stage,6/21/1990,21:00:00,S-077,T-58,T-46,1,1,0,0,0,0,draw
+M-1990-37,WC-1990,Cameroon v Colombia,round of 16,6/23/1990,17:00:00,S-076,T-11,T-15,2,1,1,0,0,0,home team win
+M-1990-38,WC-1990,Czechoslovakia v Costa Rica,round of 16,6/23/1990,21:00:00,S-068,T-20,T-16,4,1,0,0,0,0,home team win
+M-1990-39,WC-1990,Brazil v Argentina,round of 16,6/24/1990,17:00:00,S-082,T-09,T-03,0,1,0,0,0,0,away team win
+M-1990-40,WC-1990,West Germany v Netherlands,round of 16,6/24/1990,21:00:00,S-074,T-83,T-46,2,1,0,0,0,0,home team win
+M-1990-41,WC-1990,Republic of Ireland v Romania,round of 16,6/25/1990,17:00:00,S-073,T-58,T-59,0,0,1,1,5,4,home team win
+M-1990-42,WC-1990,Italy v Uruguay,round of 16,6/25/1990,21:00:00,S-079,T-39,T-81,2,0,0,0,0,0,home team win
+M-1990-43,WC-1990,Spain v Yugoslavia,round of 16,6/26/1990,17:00:00,S-084,T-71,T-84,1,2,1,0,0,0,away team win
+M-1990-44,WC-1990,England v Belgium,round of 16,6/26/1990,21:00:00,S-069,T-27,T-06,1,0,1,0,0,0,home team win
+M-1990-45,WC-1990,Argentina v Yugoslavia,quarter-finals,6/30/1990,17:00:00,S-071,T-03,T-84,0,0,1,1,3,2,home team win
+M-1990-46,WC-1990,Republic of Ireland v Italy,quarter-finals,6/30/1990,21:00:00,S-079,T-58,T-39,0,1,0,0,0,0,away team win
+M-1990-47,WC-1990,Czechoslovakia v West Germany,quarter-finals,07/01/1990,17:00:00,S-074,T-20,T-83,0,1,0,0,0,0,away team win
+M-1990-48,WC-1990,Cameroon v England,quarter-finals,07/01/1990,21:00:00,S-076,T-11,T-27,2,3,1,0,0,0,away team win
+M-1990-49,WC-1990,Argentina v Italy,semi-finals,07/03/1990,20:00:00,S-076,T-03,T-39,1,1,1,1,4,3,home team win
+M-1990-50,WC-1990,West Germany v England,semi-finals,07/04/1990,20:00:00,S-082,T-83,T-27,1,1,1,1,4,3,home team win
+M-1990-51,WC-1990,Italy v England,third-place match,07/07/1990,20:00:00,S-068,T-39,T-27,2,1,0,0,0,0,home team win
+M-1990-52,WC-1990,West Germany v Argentina,final,07/08/1990,20:00:00,S-079,T-83,T-03,1,0,0,0,0,0,home team win
+M-1994-01,WC-1994,Germany v Bolivia,group stage,6/17/1994,14:00:00,S-182,T-29,T-07,1,0,0,0,0,0,home team win
+M-1994-02,WC-1994,Spain v South Korea,group stage,6/17/1994,18:30:00,S-183,T-71,T-69,2,2,0,0,0,0,draw
+M-1994-03,WC-1994,United States v Switzerland,group stage,6/18/1994,11:30:00,S-188,T-80,T-73,1,1,0,0,0,0,draw
+M-1994-04,WC-1994,Italy v Republic of Ireland,group stage,6/18/1994,16:00:00,S-184,T-39,T-58,0,1,0,0,0,0,away team win
+M-1994-05,WC-1994,Colombia v Romania,group stage,6/18/1994,16:30:00,S-187,T-15,T-59,1,3,0,0,0,0,away team win
+M-1994-06,WC-1994,Belgium v Morocco,group stage,6/19/1994,12:30:00,S-186,T-06,T-45,1,0,0,0,0,0,home team win
+M-1994-07,WC-1994,Norway v Mexico,group stage,6/19/1994,16:00:00,S-190,T-51,T-44,1,0,0,0,0,0,home team win
+M-1994-08,WC-1994,Cameroon v Sweden,group stage,6/19/1994,16:30:00,S-187,T-11,T-72,2,2,0,0,0,0,draw
+M-1994-09,WC-1994,Brazil v Russia,group stage,6/20/1994,13:00:00,S-189,T-09,T-60,2,0,0,0,0,0,home team win
+M-1994-10,WC-1994,Netherlands v Saudi Arabia,group stage,6/20/1994,19:30:00,S-190,T-46,T-61,2,1,0,0,0,0,home team win
+M-1994-11,WC-1994,Argentina v Greece,group stage,6/21/1994,12:30:00,S-185,T-03,T-31,4,0,0,0,0,0,home team win
+M-1994-12,WC-1994,Germany v Spain,group stage,6/21/1994,15:00:00,S-182,T-29,T-71,1,1,0,0,0,0,draw
+M-1994-13,WC-1994,Nigeria v Bulgaria,group stage,6/21/1994,18:30:00,S-183,T-48,T-10,3,0,0,0,0,0,home team win
+M-1994-14,WC-1994,Romania v Switzerland,group stage,6/22/1994,16:00:00,S-188,T-59,T-73,1,4,0,0,0,0,away team win
+M-1994-15,WC-1994,United States v Colombia,group stage,6/22/1994,16:30:00,S-187,T-80,T-15,2,1,0,0,0,0,home team win
+M-1994-16,WC-1994,Italy v Norway,group stage,6/23/1994,16:00:00,S-184,T-39,T-51,1,0,0,0,0,0,home team win
+M-1994-17,WC-1994,South Korea v Bolivia,group stage,6/23/1994,19:30:00,S-185,T-69,T-07,0,0,0,0,0,0,draw
+M-1994-18,WC-1994,Mexico v Republic of Ireland,group stage,6/24/1994,12:30:00,S-186,T-44,T-58,2,1,0,0,?,0,home team win
+M-1994-19,WC-1994,Brazil v Cameroon,group stage,6/24/1994,13:00:00,S-189,T-09,T-11,3,0,0,0,0,?,home team win
+M-1994-20,WC-1994,Sweden v Russia,group stage,6/24/1994,19:30:00,S-188,T-72,T-60,3,1,0,0,0,0,home team win
+M-1994-21,WC-1994,Belgium v Netherlands,group stage,6/25/1994,12:30:00,S-186,T-06,T-46,1,0,0,0,0,0,home team win
+M-1994-22,WC-1994,Saudi Arabia v Morocco,group stage,6/25/1994,12:30:00,S-184,T-61,T-45,2,1,0,0,0,0,home team win
+M-1994-23,WC-1994,Argentina v Nigeria,group stage,6/25/1994,16:00:00,S-185,T-03,T-48,2,1,0,0,0,0,home team win
+M-1994-24,WC-1994,Bulgaria v Greece,group stage,6/26/1994,11:30:00,S-182,T-10,T-31,4,0,0,0,0,0,home team win
+M-1994-25,WC-1994,Switzerland v Colombia,group stage,6/26/1994,13:00:00,S-189,T-73,T-15,0,2,0,0,0,0,away team win
+M-1994-26,WC-1994,United States v Romania,group stage,6/26/1994,13:00:00,S-187,T-80,T-59,0,1,0,0,0,0,away team win
+M-1994-27,WC-1994,Bolivia v Spain,group stage,6/27/1994,15:00:00,S-182,T-07,T-71,1,3,0,0,0,0,away team win
+M-1994-28,WC-1994,Germany v South Korea,group stage,6/27/1994,15:00:00,S-183,T-29,T-69,3,2,0,0,0,0,home team win
+M-1994-29,WC-1994,Italy v Mexico,group stage,6/28/1994,12:30:00,S-190,T-39,T-44,1,1,0,0,0,0,draw
+M-1994-30,WC-1994,Republic of Ireland v Norway,group stage,6/28/1994,12:30:00,S-184,T-58,T-51,0,0,0,0,0,0,draw
+M-1994-31,WC-1994,Russia v Cameroon,group stage,6/28/1994,13:00:00,S-189,T-60,T-11,6,1,0,0,0,0,home team win
+M-1994-32,WC-1994,Brazil v Sweden,group stage,6/28/1994,16:00:00,S-188,T-09,T-72,1,1,0,0,0,0,draw
+M-1994-33,WC-1994,Belgium v Saudi Arabia,group stage,6/29/1994,12:30:00,S-190,T-06,T-61,0,1,0,0,0,0,away team win
+M-1994-34,WC-1994,Morocco v Netherlands,group stage,6/29/1994,12:30:00,S-186,T-45,T-46,1,2,0,0,0,0,away team win
+M-1994-35,WC-1994,Argentina v Bulgaria,group stage,6/30/1994,18:30:00,S-183,T-03,T-10,0,2,0,0,0,0,away team win
+M-1994-36,WC-1994,Greece v Nigeria,group stage,6/30/1994,19:30:00,S-185,T-31,T-48,0,2,0,0,0,0,away team win
+M-1994-37,WC-1994,Germany v Belgium,round of 16,07/02/1994,12:00:00,S-182,T-29,T-06,3,2,0,0,0,0,home team win
+M-1994-38,WC-1994,Spain v Switzerland,round of 16,07/02/1994,16:30:00,S-190,T-71,T-73,3,0,0,0,0,0,home team win
+M-1994-39,WC-1994,Saudi Arabia v Sweden,round of 16,07/03/1994,12:00:00,S-183,T-61,T-72,1,3,0,0,0,0,away team win
+M-1994-40,WC-1994,Romania v Argentina,round of 16,07/03/1994,13:30:00,S-187,T-59,T-03,3,2,0,0,0,0,home team win
+M-1994-41,WC-1994,Netherlands v Republic of Ireland,round of 16,07/04/1994,12:00:00,S-186,T-46,T-58,2,0,0,0,0,0,home team win
+M-1994-42,WC-1994,Brazil v United States,round of 16,07/04/1994,12:30:00,S-189,T-09,T-80,1,0,0,0,0,0,home team win
+M-1994-43,WC-1994,Nigeria v Italy,round of 16,07/05/1994,13:00:00,S-185,T-48,T-39,1,2,1,0,0,0,away team win
+M-1994-44,WC-1994,Mexico v Bulgaria,round of 16,07/05/1994,16:30:00,S-184,T-44,T-10,1,1,1,1,1,3,away team win
+M-1994-45,WC-1994,Italy v Spain,quarter-finals,07/09/1994,12:00:00,S-185,T-39,T-71,2,1,0,0,0,0,home team win
+M-1994-46,WC-1994,Netherlands v Brazil,quarter-finals,07/09/1994,14:30:00,S-183,T-46,T-09,2,3,0,0,0,0,away team win
+M-1994-47,WC-1994,Bulgaria v Germany,quarter-finals,07/10/1994,12:00:00,S-184,T-10,T-29,2,1,0,0,0,0,home team win
+M-1994-48,WC-1994,Romania v Sweden,quarter-finals,07/10/1994,12:30:00,S-189,T-59,T-72,2,2,1,1,4,5,away team win
+M-1994-49,WC-1994,Bulgaria v Italy,semi-finals,7/13/1994,16:00:00,S-184,T-10,T-39,1,2,0,0,0,0,away team win
+M-1994-50,WC-1994,Sweden v Brazil,semi-finals,7/13/1994,16:30:00,S-187,T-72,T-09,0,1,0,0,0,0,away team win
+M-1994-51,WC-1994,Sweden v Bulgaria,third-place match,7/16/1994,12:30:00,S-187,T-72,T-10,4,0,0,0,0,0,home team win
+M-1994-52,WC-1994,Brazil v Italy,final,7/17/1994,12:30:00,S-187,T-09,T-39,0,0,1,1,3,2,home team win
+M-1998-01,WC-1998,Brazil v Scotland,group stage,06/10/1998,17:30:00,S-048,T-09,T-62,2,1,0,0,0,0,home team win
+M-1998-02,WC-1998,Morocco v Norway,group stage,06/10/1998,21:00:00,S-043,T-45,T-51,2,2,0,0,0,0,draw
+M-1998-03,WC-1998,Italy v Chile,group stage,06/11/1998,17:30:00,S-037,T-39,T-13,2,2,0,0,0,0,draw
+M-1998-04,WC-1998,Cameroon v Austria,group stage,06/11/1998,21:00:00,S-051,T-11,T-05,1,1,0,0,0,0,draw
+M-1998-05,WC-1998,Paraguay v Bulgaria,group stage,06/12/1998,14:30:00,S-043,T-53,T-10,0,0,0,0,0,0,draw
+M-1998-06,WC-1998,Saudi Arabia v Denmark,group stage,06/12/1998,17:30:00,S-039,T-61,T-21,0,1,0,0,0,0,away team win
+M-1998-07,WC-1998,France v South Africa,group stage,06/12/1998,21:00:00,S-042,T-28,T-68,3,0,0,0,0,0,home team win
+M-1998-08,WC-1998,Spain v Nigeria,group stage,6/13/1998,14:30:00,S-044,T-71,T-48,2,3,0,0,0,0,away team win
+M-1998-09,WC-1998,South Korea v Mexico,group stage,6/13/1998,17:30:00,S-041,T-69,T-44,1,3,0,0,0,0,away team win
+M-1998-10,WC-1998,Netherlands v Belgium,group stage,6/13/1998,21:00:00,S-048,T-46,T-06,0,0,0,0,0,0,draw
+M-1998-11,WC-1998,Argentina v Japan,group stage,6/14/1998,14:30:00,S-051,T-03,T-42,1,0,0,0,0,0,home team win
+M-1998-12,WC-1998,Yugoslavia v Iran,group stage,6/14/1998,17:30:00,S-049,T-84,T-36,1,0,0,0,0,0,home team win
+M-1998-13,WC-1998,Jamaica v Croatia,group stage,6/14/1998,21:00:00,S-039,T-41,T-17,1,3,0,0,0,0,away team win
+M-1998-14,WC-1998,England v Tunisia,group stage,6/15/1998,14:30:00,S-042,T-27,T-76,2,0,0,0,?,0,home team win
+M-1998-15,WC-1998,Romania v Colombia,group stage,6/15/1998,17:30:00,S-041,T-59,T-15,1,0,0,0,0,?,home team win
+M-1998-16,WC-1998,Germany v United States,group stage,6/15/1998,21:00:00,S-045,T-29,T-80,2,0,0,0,0,0,home team win
+M-1998-17,WC-1998,Scotland v Norway,group stage,6/16/1998,17:30:00,S-037,T-62,T-51,1,1,0,0,0,0,draw
+M-1998-18,WC-1998,Brazil v Morocco,group stage,6/16/1998,21:00:00,S-044,T-09,T-45,3,0,0,0,0,0,home team win
+M-1998-19,WC-1998,Chile v Austria,group stage,6/17/1998,17:30:00,S-049,T-13,T-05,1,1,0,0,0,0,draw
+M-1998-20,WC-1998,Italy v Cameroon,group stage,6/17/1998,21:00:00,S-043,T-39,T-11,3,0,0,0,0,0,home team win
+M-1998-21,WC-1998,South Africa v Denmark,group stage,6/18/1998,17:30:00,S-051,T-68,T-21,1,1,0,0,0,0,draw
+M-1998-22,WC-1998,France v Saudi Arabia,group stage,6/18/1998,21:00:00,S-048,T-28,T-61,4,0,0,0,0,0,home team win
+M-1998-23,WC-1998,Nigeria v Bulgaria,group stage,6/19/1998,17:30:00,S-045,T-48,T-10,1,0,0,0,0,0,home team win
+M-1998-24,WC-1998,Spain v Paraguay,group stage,6/19/1998,21:00:00,S-049,T-71,T-53,0,0,0,0,0,0,draw
+M-1998-25,WC-1998,Japan v Croatia,group stage,6/20/1998,14:30:00,S-044,T-42,T-17,0,1,0,0,0,0,away team win
+M-1998-26,WC-1998,Belgium v Mexico,group stage,6/20/1998,17:30:00,S-037,T-06,T-44,2,2,0,0,0,0,draw
+M-1998-27,WC-1998,Netherlands v South Korea,group stage,6/20/1998,21:00:00,S-042,T-46,T-69,5,0,0,0,0,0,home team win
+M-1998-28,WC-1998,Germany v Yugoslavia,group stage,6/21/1998,14:30:00,S-039,T-29,T-84,2,2,0,0,0,0,draw
+M-1998-29,WC-1998,Argentina v Jamaica,group stage,6/21/1998,17:30:00,S-045,T-03,T-41,5,0,0,0,0,0,home team win
+M-1998-30,WC-1998,United States v Iran,group stage,6/21/1998,21:00:00,S-041,T-80,T-36,1,2,0,0,0,0,away team win
+M-1998-31,WC-1998,Colombia v Tunisia,group stage,6/22/1998,17:30:00,S-043,T-15,T-76,1,0,0,0,0,0,home team win
+M-1998-32,WC-1998,Romania v England,group stage,6/22/1998,21:00:00,S-051,T-59,T-27,2,1,0,0,0,0,home team win
+M-1998-33,WC-1998,Chile v Cameroon,group stage,6/23/1998,16:00:00,S-044,T-13,T-11,1,1,0,0,0,0,draw
+M-1998-34,WC-1998,Italy v Austria,group stage,6/23/1998,16:00:00,S-048,T-39,T-05,2,1,0,0,0,0,home team win
+M-1998-35,WC-1998,Brazil v Norway,group stage,6/23/1998,21:00:00,S-042,T-09,T-51,1,2,0,0,0,0,away team win
+M-1998-36,WC-1998,Scotland v Morocco,group stage,6/23/1998,21:00:00,S-049,T-62,T-45,0,3,0,0,0,0,away team win
+M-1998-37,WC-1998,France v Denmark,group stage,6/24/1998,16:00:00,S-041,T-28,T-21,2,1,0,0,0,0,home team win
+M-1998-38,WC-1998,South Africa v Saudi Arabia,group stage,6/24/1998,16:00:00,S-037,T-68,T-61,2,2,0,0,0,0,draw
+M-1998-39,WC-1998,Nigeria v Paraguay,group stage,6/24/1998,21:00:00,S-051,T-48,T-53,1,3,0,0,0,0,away team win
+M-1998-40,WC-1998,Spain v Bulgaria,group stage,6/24/1998,21:00:00,S-039,T-71,T-10,6,1,0,0,0,0,home team win
+M-1998-41,WC-1998,Belgium v South Korea,group stage,6/25/1998,16:00:00,S-045,T-06,T-69,1,1,0,0,0,0,draw
+M-1998-42,WC-1998,Netherlands v Mexico,group stage,6/25/1998,16:00:00,S-049,T-46,T-44,2,2,0,0,0,0,draw
+M-1998-43,WC-1998,Germany v Iran,group stage,6/25/1998,21:00:00,S-043,T-29,T-36,2,0,0,0,0,0,home team win
+M-1998-44,WC-1998,United States v Yugoslavia,group stage,6/25/1998,21:00:00,S-044,T-80,T-84,0,1,0,0,0,0,away team win
+M-1998-45,WC-1998,Argentina v Croatia,group stage,6/26/1998,16:00:00,S-037,T-03,T-17,1,0,0,0,0,0,home team win
+M-1998-46,WC-1998,Japan v Jamaica,group stage,6/26/1998,16:00:00,S-041,T-42,T-41,1,2,0,0,?,0,away team win
+M-1998-47,WC-1998,Colombia v England,group stage,6/26/1998,21:00:00,S-039,T-15,T-27,0,2,0,0,0,?,away team win
+M-1998-48,WC-1998,Romania v Tunisia,group stage,6/26/1998,21:00:00,S-048,T-59,T-76,1,1,0,0,0,0,draw
+M-1998-49,WC-1998,Italy v Norway,round of 16,6/27/1998,16:30:00,S-042,T-39,T-51,1,0,0,0,0,0,home team win
+M-1998-50,WC-1998,Brazil v Chile,round of 16,6/27/1998,21:00:00,S-045,T-09,T-13,4,1,0,0,0,0,home team win
+M-1998-51,WC-1998,France v Paraguay,round of 16,6/28/1998,16:30:00,S-039,T-28,T-53,1,0,1,0,0,0,home team win
+M-1998-52,WC-1998,Nigeria v Denmark,round of 16,6/28/1998,21:00:00,S-048,T-48,T-21,1,4,0,0,0,0,away team win
+M-1998-53,WC-1998,Germany v Mexico,round of 16,6/29/1998,16:30:00,S-043,T-29,T-44,2,1,0,0,0,0,home team win
+M-1998-54,WC-1998,Netherlands v Yugoslavia,round of 16,6/29/1998,21:00:00,S-051,T-46,T-84,2,1,0,0,0,0,home team win
+M-1998-55,WC-1998,Romania v Croatia,round of 16,6/30/1998,16:30:00,S-037,T-59,T-17,0,1,0,0,0,0,away team win
+M-1998-56,WC-1998,Argentina v England,round of 16,6/30/1998,21:00:00,S-049,T-03,T-27,2,2,1,1,4,3,home team win
+M-1998-57,WC-1998,Italy v France,quarter-finals,07/03/1998,16:30:00,S-048,T-39,T-28,0,0,1,1,3,4,away team win
+M-1998-58,WC-1998,Brazil v Denmark,quarter-finals,07/03/1998,21:00:00,S-044,T-09,T-21,3,2,0,0,0,0,home team win
+M-1998-59,WC-1998,Netherlands v Argentina,quarter-finals,07/04/1998,16:30:00,S-042,T-46,T-03,2,1,0,0,0,0,home team win
+M-1998-60,WC-1998,Germany v Croatia,quarter-finals,07/04/1998,21:00:00,S-041,T-29,T-17,0,3,0,0,0,0,away team win
+M-1998-61,WC-1998,Brazil v Netherlands,semi-finals,07/07/1998,21:00:00,S-042,T-09,T-46,1,1,1,1,4,2,home team win
+M-1998-62,WC-1998,France v Croatia,semi-finals,07/08/1998,21:00:00,S-048,T-28,T-17,2,1,0,0,0,0,home team win
+M-1998-63,WC-1998,Netherlands v Croatia,third-place match,07/11/1998,21:00:00,S-045,T-46,T-17,1,2,0,0,0,0,away team win
+M-1998-64,WC-1998,Brazil v France,final,07/12/1998,21:00:00,S-048,T-09,T-28,0,3,0,0,0,0,away team win
+M-2002-01,WC-2002,France v Senegal,group stage,5/31/2002,20:30:00,S-144,T-28,T-63,0,1,0,0,0,0,away team win
+M-2002-02,WC-2002,Republic of Ireland v Cameroon,group stage,06/01/2002,15:30:00,S-088,T-58,T-11,1,1,0,0,0,0,draw
+M-2002-03,WC-2002,Uruguay v Denmark,group stage,06/01/2002,18:00:00,S-146,T-81,T-21,1,2,0,0,0,0,away team win
+M-2002-04,WC-2002,Germany v Saudi Arabia,group stage,06/01/2002,20:30:00,S-092,T-29,T-61,8,0,0,0,0,0,home team win
+M-2002-05,WC-2002,Argentina v Nigeria,group stage,06/02/2002,14:30:00,S-085,T-03,T-48,1,0,0,0,0,0,home team win
+M-2002-06,WC-2002,Paraguay v South Africa,group stage,06/02/2002,16:30:00,S-137,T-53,T-68,2,2,0,0,0,0,draw
+M-2002-07,WC-2002,England v Sweden,group stage,06/02/2002,18:30:00,S-091,T-27,T-72,1,1,0,0,0,0,draw
+M-2002-08,WC-2002,Spain v Slovenia,group stage,06/02/2002,20:30:00,S-140,T-71,T-67,3,1,0,0,0,0,home team win
+M-2002-09,WC-2002,Croatia v Mexico,group stage,06/03/2002,15:30:00,S-088,T-17,T-44,0,1,0,0,0,0,away team win
+M-2002-10,WC-2002,Brazil v Turkey,group stage,06/03/2002,18:00:00,S-146,T-09,T-77,2,1,0,0,0,0,home team win
+M-2002-11,WC-2002,Italy v Ecuador,group stage,06/03/2002,20:30:00,S-092,T-39,T-24,2,0,0,0,0,0,home team win
+M-2002-12,WC-2002,China v Costa Rica,group stage,06/04/2002,15:30:00,S-140,T-14,T-16,0,2,0,0,0,0,away team win
+M-2002-13,WC-2002,Japan v Belgium,group stage,06/04/2002,18:00:00,S-091,T-42,T-06,2,2,0,0,0,0,draw
+M-2002-14,WC-2002,South Korea v Poland,group stage,06/04/2002,20:30:00,S-137,T-69,T-55,2,0,0,0,0,0,home team win
+M-2002-15,WC-2002,Russia v Tunisia,group stage,06/05/2002,15:30:00,S-086,T-60,T-76,2,0,0,0,0,0,home team win
+M-2002-16,WC-2002,United States v Portugal,group stage,06/05/2002,18:00:00,S-145,T-80,T-56,3,2,0,0,0,0,home team win
+M-2002-17,WC-2002,Germany v Republic of Ireland,group stage,06/05/2002,20:30:00,S-085,T-29,T-58,1,1,0,0,0,0,draw
+M-2002-18,WC-2002,Denmark v Senegal,group stage,06/06/2002,15:30:00,S-138,T-21,T-63,1,1,0,0,0,0,draw
+M-2002-19,WC-2002,Cameroon v Saudi Arabia,group stage,06/06/2002,18:00:00,S-091,T-11,T-61,1,0,0,0,0,0,home team win
+M-2002-20,WC-2002,France v Uruguay,group stage,06/06/2002,20:30:00,S-137,T-28,T-81,0,0,0,0,0,0,draw
+M-2002-21,WC-2002,Sweden v Nigeria,group stage,06/07/2002,15:30:00,S-086,T-72,T-48,2,1,0,0,0,0,home team win
+M-2002-22,WC-2002,Spain v Paraguay,group stage,06/07/2002,18:00:00,S-142,T-71,T-53,3,1,0,0,0,0,home team win
+M-2002-23,WC-2002,Argentina v England,group stage,06/07/2002,20:30:00,S-092,T-03,T-27,0,1,0,0,0,0,away team win
+M-2002-24,WC-2002,South Africa v Slovenia,group stage,06/08/2002,15:30:00,S-138,T-68,T-67,1,0,0,0,0,0,home team win
+M-2002-25,WC-2002,Italy v Croatia,group stage,06/08/2002,18:00:00,S-085,T-39,T-17,1,2,0,0,?,0,away team win
+M-2002-26,WC-2002,Brazil v China,group stage,06/08/2002,20:30:00,S-143,T-09,T-14,4,0,0,0,0,?,home team win
+M-2002-27,WC-2002,Mexico v Ecuador,group stage,06/09/2002,15:30:00,S-087,T-44,T-24,2,1,0,0,0,0,home team win
+M-2002-28,WC-2002,Costa Rica v Turkey,group stage,06/09/2002,18:00:00,S-141,T-16,T-77,1,1,0,0,0,0,draw
+M-2002-29,WC-2002,Japan v Russia,group stage,06/09/2002,20:30:00,S-094,T-42,T-60,1,0,0,0,0,0,home team win
+M-2002-30,WC-2002,South Korea v United States,group stage,06/10/2002,15:30:00,S-138,T-69,T-80,1,1,0,0,0,0,draw
+M-2002-31,WC-2002,Tunisia v Belgium,group stage,06/10/2002,18:00:00,S-089,T-76,T-06,1,1,0,0,0,0,draw
+M-2002-32,WC-2002,Portugal v Poland,group stage,06/10/2002,20:30:00,S-142,T-56,T-55,4,0,0,0,0,0,home team win
+M-2002-33,WC-2002,Denmark v France,group stage,06/11/2002,15:30:00,S-141,T-21,T-28,2,0,0,0,0,0,home team win
+M-2002-34,WC-2002,Senegal v Uruguay,group stage,06/11/2002,15:30:00,S-145,T-63,T-81,3,3,0,0,0,0,draw
+M-2002-35,WC-2002,Cameroon v Germany,group stage,06/11/2002,20:30:00,S-093,T-11,T-29,0,2,0,0,0,0,away team win
+M-2002-36,WC-2002,Saudi Arabia v Republic of Ireland,group stage,06/11/2002,20:30:00,S-094,T-61,T-58,0,3,0,0,0,0,away team win
+M-2002-37,WC-2002,Nigeria v England,group stage,06/12/2002,15:30:00,S-090,T-48,T-27,0,0,0,0,0,0,draw
+M-2002-38,WC-2002,Sweden v Argentina,group stage,06/12/2002,15:30:00,S-087,T-72,T-03,1,1,0,0,0,0,draw
+M-2002-39,WC-2002,Slovenia v Paraguay,group stage,06/12/2002,20:30:00,S-143,T-67,T-53,1,3,0,0,0,0,away team win
+M-2002-40,WC-2002,South Africa v Spain,group stage,06/12/2002,20:30:00,S-139,T-68,T-71,2,3,0,0,0,0,away team win
+M-2002-41,WC-2002,Costa Rica v Brazil,group stage,6/13/2002,15:30:00,S-145,T-16,T-09,2,5,0,0,0,0,away team win
+M-2002-42,WC-2002,Turkey v China,group stage,6/13/2002,15:30:00,S-144,T-77,T-14,3,0,0,0,0,0,home team win
+M-2002-43,WC-2002,Ecuador v Croatia,group stage,6/13/2002,20:30:00,S-094,T-24,T-17,1,0,0,0,0,0,home team win
+M-2002-44,WC-2002,Mexico v Italy,group stage,6/13/2002,20:30:00,S-089,T-44,T-39,1,1,0,0,0,0,draw
+M-2002-45,WC-2002,Belgium v Russia,group stage,6/14/2002,15:30:00,S-093,T-06,T-60,3,2,0,0,0,0,home team win
+M-2002-46,WC-2002,Tunisia v Japan,group stage,6/14/2002,15:30:00,S-090,T-76,T-42,0,2,0,0,0,0,away team win
+M-2002-47,WC-2002,Poland v United States,group stage,6/14/2002,20:30:00,S-139,T-55,T-80,3,1,0,0,0,0,home team win
+M-2002-48,WC-2002,Portugal v South Korea,group stage,6/14/2002,20:30:00,S-141,T-56,T-69,0,1,0,0,0,0,away team win
+M-2002-49,WC-2002,Germany v Paraguay,round of 16,6/15/2002,15:30:00,S-143,T-29,T-53,1,0,0,0,0,0,home team win
+M-2002-50,WC-2002,Denmark v England,round of 16,6/15/2002,20:30:00,S-088,T-21,T-27,0,3,0,0,0,0,away team win
+M-2002-51,WC-2002,Sweden v Senegal,round of 16,6/16/2002,15:30:00,S-089,T-72,T-63,1,2,1,0,0,0,away team win
+M-2002-52,WC-2002,Spain v Republic of Ireland,round of 16,6/16/2002,20:30:00,S-145,T-71,T-58,1,1,1,1,3,2,home team win
+M-2002-53,WC-2002,Mexico v United States,round of 16,6/17/2002,15:30:00,S-142,T-44,T-80,0,2,0,0,0,0,away team win
+M-2002-54,WC-2002,Brazil v Belgium,round of 16,6/17/2002,20:30:00,S-086,T-09,T-06,2,0,0,0,?,0,home team win
+M-2002-55,WC-2002,Japan v Turkey,round of 16,6/18/2002,15:30:00,S-087,T-42,T-77,0,1,0,0,0,?,away team win
+M-2002-56,WC-2002,South Korea v Italy,round of 16,6/18/2002,20:30:00,S-139,T-69,T-39,2,1,1,0,0,0,home team win
+M-2002-57,WC-2002,England v Brazil,quarter-finals,6/21/2002,15:30:00,S-093,T-27,T-09,1,2,0,0,0,0,away team win
+M-2002-58,WC-2002,Germany v United States,quarter-finals,6/21/2002,20:30:00,S-146,T-29,T-80,1,0,0,0,0,0,home team win
+M-2002-59,WC-2002,Spain v South Korea,quarter-finals,6/22/2002,15:30:00,S-140,T-71,T-69,0,0,1,1,3,5,away team win
+M-2002-60,WC-2002,Senegal v Turkey,quarter-finals,6/22/2002,20:30:00,S-090,T-63,T-77,0,1,1,0,0,0,away team win
+M-2002-61,WC-2002,Germany v South Korea,semi-finals,6/25/2002,20:30:00,S-144,T-29,T-69,1,0,0,0,0,0,home team win
+M-2002-62,WC-2002,Brazil v Turkey,semi-finals,6/26/2002,20:30:00,S-091,T-09,T-77,1,0,0,0,0,0,home team win
+M-2002-63,WC-2002,South Korea v Turkey,third-place match,6/29/2002,20:00:00,S-138,T-69,T-77,2,3,0,0,0,0,away team win
+M-2002-64,WC-2002,Germany v Brazil,final,6/30/2002,20:00:00,S-094,T-29,T-09,0,2,0,0,0,0,away team win
+M-2006-01,WC-2006,Germany v Costa Rica,group stage,06/09/2006,18:00:00,S-064,T-29,T-16,4,2,0,0,0,0,home team win
+M-2006-02,WC-2006,Poland v Ecuador,group stage,06/09/2006,21:00:00,S-058,T-55,T-24,0,2,0,0,0,0,away team win
+M-2006-03,WC-2006,England v Paraguay,group stage,06/10/2006,15:00:00,S-057,T-27,T-53,1,0,0,0,0,0,home team win
+M-2006-04,WC-2006,Trinidad and Tobago v Sweden,group stage,06/10/2006,18:00:00,S-055,T-75,T-72,0,0,0,0,0,0,draw
+M-2006-05,WC-2006,Argentina v Ivory Coast,group stage,06/10/2006,21:00:00,S-060,T-03,T-40,2,1,0,0,0,0,home team win
+M-2006-06,WC-2006,Serbia and Montenegro v Netherlands,group stage,06/11/2006,15:00:00,S-063,T-65,T-46,0,1,0,0,0,0,away team win
+M-2006-07,WC-2006,Mexico v Iran,group stage,06/11/2006,18:00:00,S-066,T-44,T-36,3,1,0,0,0,0,home team win
+M-2006-08,WC-2006,Angola v Portugal,group stage,06/11/2006,21:00:00,S-054,T-02,T-56,0,1,0,0,0,0,away team win
+M-2006-09,WC-2006,Australia v Japan,group stage,06/12/2006,15:00:00,S-062,T-04,T-42,3,1,0,0,0,0,home team win
+M-2006-10,WC-2006,United States v Czech Republic,group stage,06/12/2006,18:00:00,S-058,T-80,T-19,0,3,0,0,0,0,away team win
+M-2006-11,WC-2006,Italy v Ghana,group stage,06/12/2006,21:00:00,S-061,T-39,T-30,2,0,0,0,0,0,home team win
+M-2006-12,WC-2006,South Korea v Togo,group stage,6/13/2006,15:00:00,S-057,T-69,T-74,2,1,0,0,0,0,home team win
+M-2006-13,WC-2006,France v Switzerland,group stage,6/13/2006,18:00:00,S-067,T-28,T-73,0,0,0,0,0,0,draw
+M-2006-14,WC-2006,Brazil v Croatia,group stage,6/13/2006,21:00:00,S-053,T-09,T-17,1,0,0,0,0,0,home team win
+M-2006-15,WC-2006,Spain v Ukraine,group stage,6/14/2006,15:00:00,S-063,T-71,T-78,4,0,0,0,0,0,home team win
+M-2006-16,WC-2006,Tunisia v Saudi Arabia,group stage,6/14/2006,18:00:00,S-064,T-76,T-61,2,2,0,0,0,0,draw
+M-2006-17,WC-2006,Germany v Poland,group stage,6/14/2006,21:00:00,S-055,T-29,T-55,1,0,0,0,0,0,home team win
+M-2006-18,WC-2006,Ecuador v Costa Rica,group stage,6/15/2006,15:00:00,S-060,T-24,T-16,3,0,0,0,0,?,home team win
+M-2006-19,WC-2006,England v Trinidad and Tobago,group stage,6/15/2006,18:00:00,S-066,T-27,T-75,2,0,0,0,?,0,home team win
+M-2006-20,WC-2006,Sweden v Paraguay,group stage,6/15/2006,21:00:00,S-053,T-72,T-53,1,0,0,0,0,0,home team win
+M-2006-21,WC-2006,Argentina v Serbia and Montenegro,group stage,6/16/2006,15:00:00,S-058,T-03,T-65,6,0,0,0,0,0,home team win
+M-2006-22,WC-2006,Netherlands v Ivory Coast,group stage,6/16/2006,18:00:00,S-067,T-46,T-40,2,1,0,0,0,0,home team win
+M-2006-23,WC-2006,Mexico v Angola,group stage,6/16/2006,21:00:00,S-061,T-44,T-02,0,0,0,0,0,0,draw
+M-2006-24,WC-2006,Portugal v Iran,group stage,6/17/2006,15:00:00,S-057,T-56,T-36,2,0,0,0,0,0,home team win
+M-2006-25,WC-2006,Czech Republic v Ghana,group stage,6/17/2006,18:00:00,S-054,T-19,T-30,0,2,0,0,0,0,away team win
+M-2006-26,WC-2006,Italy v United States,group stage,6/17/2006,21:00:00,S-062,T-39,T-80,1,1,0,0,0,0,draw
+M-2006-27,WC-2006,Japan v Croatia,group stage,6/18/2006,15:00:00,S-066,T-42,T-17,0,0,0,0,0,0,draw
+M-2006-28,WC-2006,Brazil v Australia,group stage,6/18/2006,18:00:00,S-064,T-09,T-04,2,0,0,0,0,0,home team win
+M-2006-29,WC-2006,France v South Korea,group stage,6/18/2006,21:00:00,S-063,T-28,T-69,1,1,0,0,0,0,draw
+M-2006-30,WC-2006,Togo v Switzerland,group stage,6/19/2006,15:00:00,S-055,T-74,T-73,0,2,0,0,0,0,away team win
+M-2006-31,WC-2006,Saudi Arabia v Ukraine,group stage,6/19/2006,18:00:00,S-060,T-61,T-78,0,4,0,0,0,0,away team win
+M-2006-32,WC-2006,Spain v Tunisia,group stage,6/19/2006,21:00:00,S-067,T-71,T-76,3,1,0,0,0,0,home team win
+M-2006-33,WC-2006,Costa Rica v Poland,group stage,6/20/2006,16:00:00,S-061,T-16,T-55,1,2,0,0,0,0,away team win
+M-2006-34,WC-2006,Ecuador v Germany,group stage,6/20/2006,16:00:00,S-053,T-24,T-29,0,3,0,0,0,0,away team win
+M-2006-35,WC-2006,Paraguay v Trinidad and Tobago,group stage,6/20/2006,21:00:00,S-062,T-53,T-75,2,0,0,0,0,0,home team win
+M-2006-36,WC-2006,Sweden v England,group stage,6/20/2006,21:00:00,S-054,T-72,T-27,2,2,0,0,0,0,draw
+M-2006-37,WC-2006,Iran v Angola,group stage,6/21/2006,16:00:00,S-063,T-36,T-02,1,1,0,0,0,0,draw
+M-2006-38,WC-2006,Portugal v Mexico,group stage,6/21/2006,16:00:00,S-058,T-56,T-44,2,1,0,0,0,0,home team win
+M-2006-39,WC-2006,Ivory Coast v Serbia and Montenegro,group stage,6/21/2006,21:00:00,S-064,T-40,T-65,3,2,0,0,0,0,home team win
+M-2006-40,WC-2006,Netherlands v Argentina,group stage,6/21/2006,21:00:00,S-057,T-46,T-03,0,0,0,0,0,0,draw
+M-2006-41,WC-2006,Czech Republic v Italy,group stage,6/22/2006,16:00:00,S-060,T-19,T-39,0,2,0,0,0,0,away team win
+M-2006-42,WC-2006,Ghana v United States,group stage,6/22/2006,16:00:00,S-066,T-30,T-80,2,1,0,0,0,0,home team win
+M-2006-43,WC-2006,Croatia v Australia,group stage,6/22/2006,21:00:00,S-067,T-17,T-04,2,2,0,0,0,0,draw
+M-2006-44,WC-2006,Japan v Brazil,group stage,6/22/2006,21:00:00,S-055,T-42,T-09,1,4,0,0,0,0,away team win
+M-2006-45,WC-2006,Saudi Arabia v Spain,group stage,6/23/2006,16:00:00,S-062,T-61,T-71,0,1,0,0,0,0,away team win
+M-2006-46,WC-2006,Ukraine v Tunisia,group stage,6/23/2006,16:00:00,S-053,T-78,T-76,1,0,0,0,0,0,home team win
+M-2006-47,WC-2006,Switzerland v South Korea,group stage,6/23/2006,21:00:00,S-061,T-73,T-69,2,0,0,0,0,0,home team win
+M-2006-48,WC-2006,Togo v France,group stage,6/23/2006,21:00:00,S-054,T-74,T-28,0,2,0,0,0,0,away team win
+M-2006-49,WC-2006,Germany v Sweden,round of 16,6/24/2006,17:00:00,S-064,T-29,T-72,2,0,0,0,0,0,home team win
+M-2006-50,WC-2006,Argentina v Mexico,round of 16,6/24/2006,21:00:00,S-063,T-03,T-44,2,1,1,0,0,0,home team win
+M-2006-51,WC-2006,England v Ecuador,round of 16,6/25/2006,17:00:00,S-067,T-27,T-24,1,0,0,0,0,0,home team win
+M-2006-52,WC-2006,Portugal v Netherlands,round of 16,6/25/2006,21:00:00,S-066,T-56,T-46,1,0,0,0,0,0,home team win
+M-2006-53,WC-2006,Italy v Australia,round of 16,6/26/2006,17:00:00,S-062,T-39,T-04,1,0,0,0,0,0,home team win
+M-2006-54,WC-2006,Switzerland v Ukraine,round of 16,6/26/2006,21:00:00,S-054,T-73,T-78,0,0,1,1,0,3,away team win
+M-2006-55,WC-2006,Brazil v Ghana,round of 16,6/27/2006,17:00:00,S-055,T-09,T-30,3,0,0,0,0,0,home team win
+M-2006-56,WC-2006,Spain v France,round of 16,6/27/2006,21:00:00,S-061,T-71,T-28,1,3,0,0,0,0,away team win
+M-2006-57,WC-2006,Germany v Argentina,quarter-finals,6/30/2006,17:00:00,S-053,T-29,T-03,1,1,1,1,4,2,home team win
+M-2006-58,WC-2006,Italy v Ukraine,quarter-finals,6/30/2006,21:00:00,S-060,T-39,T-78,3,0,0,0,0,0,home team win
+M-2006-59,WC-2006,England v Portugal,quarter-finals,07/01/2006,17:00:00,S-058,T-27,T-56,0,0,1,1,1,3,away team win
+M-2006-60,WC-2006,Brazil v France,quarter-finals,07/01/2006,21:00:00,S-057,T-09,T-28,0,1,0,0,0,0,away team win
+M-2006-61,WC-2006,Germany v Italy,semi-finals,07/04/2006,21:00:00,S-055,T-29,T-39,0,2,1,0,0,0,away team win
+M-2006-62,WC-2006,Portugal v France,semi-finals,07/05/2006,21:00:00,S-064,T-56,T-28,0,1,0,0,0,0,away team win
+M-2006-63,WC-2006,Germany v Portugal,third-place match,07/08/2006,21:00:00,S-067,T-29,T-56,3,1,0,0,0,0,home team win
+M-2006-64,WC-2006,Italy v France,final,07/09/2006,20:00:00,S-053,T-39,T-28,1,1,1,1,5,3,home team win
+M-2010-01,WC-2010,South Africa v Mexico,group stage,06/11/2010,16:00:00,S-131,T-68,T-44,1,1,0,0,0,0,draw
+M-2010-02,WC-2010,Uruguay v France,group stage,06/11/2010,20:30:00,S-128,T-81,T-28,0,0,0,0,0,0,draw
+M-2010-03,WC-2010,South Korea v Greece,group stage,06/12/2010,13:30:00,S-134,T-69,T-31,2,0,0,0,0,0,home team win
+M-2010-04,WC-2010,Argentina v Nigeria,group stage,06/12/2010,16:00:00,S-130,T-03,T-48,1,0,0,0,0,0,home team win
+M-2010-05,WC-2010,England v United States,group stage,06/12/2010,20:30:00,S-136,T-27,T-80,1,1,0,0,0,0,draw
+M-2010-06,WC-2010,Algeria v Slovenia,group stage,6/13/2010,13:30:00,S-133,T-01,T-67,0,1,0,0,0,0,away team win
+M-2010-07,WC-2010,Serbia v Ghana,group stage,6/13/2010,16:00:00,S-135,T-64,T-30,0,1,0,0,0,0,away team win
+M-2010-08,WC-2010,Germany v Australia,group stage,6/13/2010,20:30:00,S-129,T-29,T-04,4,0,0,0,0,0,home team win
+M-2010-09,WC-2010,Netherlands v Denmark,group stage,6/14/2010,13:30:00,S-131,T-46,T-21,2,0,0,0,0,0,home team win
+M-2010-10,WC-2010,Japan v Cameroon,group stage,6/14/2010,16:00:00,S-127,T-42,T-11,1,0,0,0,0,0,home team win
+M-2010-11,WC-2010,Italy v Paraguay,group stage,6/14/2010,20:30:00,S-128,T-39,T-53,1,1,0,0,0,0,draw
+M-2010-12,WC-2010,New Zealand v Slovakia,group stage,6/15/2010,13:30:00,S-136,T-47,T-66,1,1,0,0,0,0,draw
+M-2010-13,WC-2010,Ivory Coast v Portugal,group stage,6/15/2010,16:00:00,S-134,T-40,T-56,0,0,0,0,0,?,draw
+M-2010-14,WC-2010,Brazil v North Korea,group stage,6/15/2010,20:30:00,S-130,T-09,T-49,2,1,0,0,?,0,home team win
+M-2010-15,WC-2010,Honduras v Chile,group stage,6/16/2010,13:30:00,S-132,T-33,T-13,0,1,0,0,0,0,away team win
+M-2010-16,WC-2010,Spain v Switzerland,group stage,6/16/2010,16:00:00,S-129,T-71,T-73,0,1,0,0,0,0,away team win
+M-2010-17,WC-2010,South Africa v Uruguay,group stage,6/16/2010,20:30:00,S-135,T-68,T-81,0,3,0,0,0,0,away team win
+M-2010-18,WC-2010,Argentina v South Korea,group stage,6/17/2010,13:30:00,S-131,T-03,T-69,4,1,0,0,0,0,home team win
+M-2010-19,WC-2010,Greece v Nigeria,group stage,6/17/2010,16:00:00,S-127,T-31,T-48,2,1,0,0,0,0,home team win
+M-2010-20,WC-2010,France v Mexico,group stage,6/17/2010,20:30:00,S-133,T-28,T-44,0,2,0,0,0,0,away team win
+M-2010-21,WC-2010,Germany v Serbia,group stage,6/18/2010,13:30:00,S-134,T-29,T-64,0,1,0,0,0,0,away team win
+M-2010-22,WC-2010,Slovenia v United States,group stage,6/18/2010,16:00:00,S-130,T-67,T-80,2,2,0,0,0,0,draw
+M-2010-23,WC-2010,England v Algeria,group stage,6/18/2010,20:30:00,S-128,T-27,T-01,0,0,0,0,0,0,draw
+M-2010-24,WC-2010,Netherlands v Japan,group stage,6/19/2010,13:30:00,S-129,T-46,T-42,1,0,0,0,0,?,home team win
+M-2010-25,WC-2010,Ghana v Australia,group stage,6/19/2010,16:00:00,S-136,T-30,T-04,1,1,0,0,?,0,draw
+M-2010-26,WC-2010,Cameroon v Denmark,group stage,6/19/2010,20:30:00,S-135,T-11,T-21,1,2,0,0,0,0,away team win
+M-2010-27,WC-2010,Slovakia v Paraguay,group stage,6/20/2010,13:30:00,S-127,T-66,T-53,0,2,0,0,0,0,away team win
+M-2010-28,WC-2010,Italy v New Zealand,group stage,6/20/2010,16:00:00,S-132,T-39,T-47,1,1,0,0,0,0,draw
+M-2010-29,WC-2010,Brazil v Ivory Coast,group stage,6/20/2010,20:30:00,S-131,T-09,T-40,3,1,0,0,0,0,home team win
+M-2010-30,WC-2010,Portugal v North Korea,group stage,6/21/2010,13:30:00,S-128,T-56,T-49,7,0,0,0,0,0,home team win
+M-2010-31,WC-2010,Chile v Switzerland,group stage,6/21/2010,16:00:00,S-134,T-13,T-73,1,0,0,0,0,0,home team win
+M-2010-32,WC-2010,Spain v Honduras,group stage,6/21/2010,20:30:00,S-130,T-71,T-33,2,0,0,0,0,0,home team win
+M-2010-33,WC-2010,France v South Africa,group stage,6/22/2010,16:00:00,S-127,T-28,T-68,1,2,0,0,0,0,away team win
+M-2010-34,WC-2010,Mexico v Uruguay,group stage,6/22/2010,16:00:00,S-136,T-44,T-81,0,1,0,0,0,0,away team win
+M-2010-35,WC-2010,Greece v Argentina,group stage,6/22/2010,20:30:00,S-133,T-31,T-03,0,2,0,0,0,0,away team win
+M-2010-36,WC-2010,Nigeria v South Korea,group stage,6/22/2010,20:30:00,S-129,T-48,T-69,2,2,0,0,0,0,draw
+M-2010-37,WC-2010,Slovenia v England,group stage,6/23/2010,16:00:00,S-134,T-67,T-27,0,1,0,0,0,0,away team win
+M-2010-38,WC-2010,United States v Algeria,group stage,6/23/2010,16:00:00,S-135,T-80,T-01,1,0,0,0,0,0,home team win
+M-2010-39,WC-2010,Australia v Serbia,group stage,6/23/2010,20:30:00,S-132,T-04,T-64,2,1,0,0,0,0,home team win
+M-2010-40,WC-2010,Ghana v Germany,group stage,6/23/2010,20:30:00,S-131,T-30,T-29,0,1,0,0,0,0,away team win
+M-2010-41,WC-2010,Paraguay v New Zealand,group stage,6/24/2010,16:00:00,S-133,T-53,T-47,0,0,0,0,0,0,draw
+M-2010-42,WC-2010,Slovakia v Italy,group stage,6/24/2010,16:00:00,S-130,T-66,T-39,3,2,0,0,0,0,home team win
+M-2010-43,WC-2010,Cameroon v Netherlands,group stage,6/24/2010,20:30:00,S-128,T-11,T-46,1,2,0,0,0,0,away team win
+M-2010-44,WC-2010,Denmark v Japan,group stage,6/24/2010,20:30:00,S-136,T-21,T-42,1,3,0,0,0,0,away team win
+M-2010-45,WC-2010,North Korea v Ivory Coast,group stage,6/25/2010,16:00:00,S-132,T-49,T-40,0,3,0,0,0,0,away team win
+M-2010-46,WC-2010,Portugal v Brazil,group stage,6/25/2010,16:00:00,S-129,T-56,T-09,0,0,0,0,0,0,draw
+M-2010-47,WC-2010,Chile v Spain,group stage,6/25/2010,20:30:00,S-135,T-13,T-71,1,2,0,0,0,0,away team win
+M-2010-48,WC-2010,Switzerland v Honduras,group stage,6/25/2010,20:30:00,S-127,T-73,T-33,0,0,0,0,0,0,draw
+M-2010-49,WC-2010,Uruguay v South Korea,round of 16,6/26/2010,16:00:00,S-134,T-81,T-69,2,1,0,0,0,0,home team win
+M-2010-50,WC-2010,United States v Ghana,round of 16,6/26/2010,20:30:00,S-136,T-80,T-30,1,2,1,0,0,0,away team win
+M-2010-51,WC-2010,Germany v England,round of 16,6/27/2010,16:00:00,S-127,T-29,T-27,4,1,0,0,0,?,home team win
+M-2010-52,WC-2010,Argentina v Mexico,round of 16,6/27/2010,20:30:00,S-131,T-03,T-44,3,1,0,0,?,0,home team win
+M-2010-53,WC-2010,Netherlands v Slovakia,round of 16,6/28/2010,16:00:00,S-129,T-46,T-66,2,1,0,0,0,0,home team win
+M-2010-54,WC-2010,Brazil v Chile,round of 16,6/28/2010,20:30:00,S-130,T-09,T-13,3,0,0,0,0,0,home team win
+M-2010-55,WC-2010,Paraguay v Japan,round of 16,6/29/2010,16:00:00,S-135,T-53,T-42,0,0,1,1,5,3,home team win
+M-2010-56,WC-2010,Spain v Portugal,round of 16,6/29/2010,20:30:00,S-128,T-71,T-56,1,0,0,0,0,0,home team win
+M-2010-57,WC-2010,Netherlands v Brazil,quarter-finals,07/02/2010,16:00:00,S-134,T-46,T-09,2,1,0,0,0,0,home team win
+M-2010-58,WC-2010,Uruguay v Ghana,quarter-finals,07/02/2010,20:30:00,S-131,T-81,T-30,1,1,1,1,4,2,home team win
+M-2010-59,WC-2010,Argentina v Germany,quarter-finals,07/03/2010,16:00:00,S-128,T-03,T-29,0,4,0,0,0,0,away team win
+M-2010-60,WC-2010,Paraguay v Spain,quarter-finals,07/03/2010,20:30:00,S-130,T-53,T-71,0,1,0,0,0,0,away team win
+M-2010-61,WC-2010,Uruguay v Netherlands,semi-finals,07/06/2010,20:30:00,S-128,T-81,T-46,2,3,0,0,0,0,away team win
+M-2010-62,WC-2010,Germany v Spain,semi-finals,07/07/2010,20:30:00,S-129,T-29,T-71,0,1,0,0,0,0,away team win
+M-2010-63,WC-2010,Uruguay v Germany,third-place match,07/10/2010,20:30:00,S-134,T-81,T-29,2,3,0,0,0,0,away team win
+M-2010-64,WC-2010,Netherlands v Spain,final,07/11/2010,20:30:00,S-131,T-46,T-71,0,1,1,0,0,0,away team win
+M-2014-01,WC-2014,Brazil v Croatia,group stage,06/12/2014,17:00:00,S-022,T-09,T-17,3,1,0,0,0,0,home team win
+M-2014-02,WC-2014,Mexico v Cameroon,group stage,6/13/2014,13:00:00,S-015,T-44,T-11,1,0,0,0,0,0,home team win
+M-2014-03,WC-2014,Spain v Netherlands,group stage,6/13/2014,16:00:00,S-021,T-71,T-46,1,5,0,0,0,0,away team win
+M-2014-04,WC-2014,Chile v Australia,group stage,6/13/2014,18:00:00,S-010,T-13,T-04,3,1,0,0,0,0,home team win
+M-2014-05,WC-2014,Colombia v Greece,group stage,6/14/2014,13:00:00,S-008,T-15,T-31,3,0,0,0,0,0,home team win
+M-2014-06,WC-2014,Uruguay v Costa Rica,group stage,6/14/2014,16:00:00,S-013,T-81,T-16,1,3,0,0,0,0,away team win
+M-2014-07,WC-2014,England v Italy,group stage,6/14/2014,18:00:00,S-014,T-27,T-39,1,2,0,0,0,0,away team win
+M-2014-08,WC-2014,Ivory Coast v Japan,group stage,6/14/2014,22:00:00,S-018,T-40,T-42,2,1,0,0,0,?,home team win
+M-2014-09,WC-2014,Switzerland v Ecuador,group stage,6/15/2014,13:00:00,S-009,T-73,T-24,2,1,0,0,?,0,home team win
+M-2014-10,WC-2014,France v Honduras,group stage,6/15/2014,16:00:00,S-016,T-28,T-33,3,0,0,0,0,0,home team win
+M-2014-11,WC-2014,Argentina v Bosnia and Herzegovina,group stage,6/15/2014,19:00:00,S-020,T-03,T-08,2,1,0,0,0,0,home team win
+M-2014-12,WC-2014,Germany v Portugal,group stage,6/16/2014,13:00:00,S-021,T-29,T-56,4,0,0,0,0,0,home team win
+M-2014-13,WC-2014,Iran v Nigeria,group stage,6/16/2014,16:00:00,S-011,T-36,T-48,0,0,0,0,0,0,draw
+M-2014-14,WC-2014,Ghana v United States,group stage,6/16/2014,19:00:00,S-015,T-30,T-80,1,2,0,0,0,0,away team win
+M-2014-15,WC-2014,Belgium v Algeria,group stage,6/17/2014,13:00:00,S-008,T-06,T-01,2,1,0,0,0,0,home team win
+M-2014-16,WC-2014,Brazil v Mexico,group stage,6/17/2014,16:00:00,S-013,T-09,T-44,0,0,0,0,0,0,draw
+M-2014-17,WC-2014,Russia v South Korea,group stage,6/17/2014,18:00:00,S-010,T-60,T-69,1,1,0,0,0,0,draw
+M-2014-18,WC-2014,Australia v Netherlands,group stage,6/18/2014,13:00:00,S-016,T-04,T-46,2,3,0,0,0,0,away team win
+M-2014-19,WC-2014,Spain v Chile,group stage,6/18/2014,16:00:00,S-020,T-71,T-13,0,2,0,0,0,0,away team win
+M-2014-20,WC-2014,Cameroon v Croatia,group stage,6/18/2014,18:00:00,S-014,T-11,T-17,0,4,0,0,0,0,away team win
+M-2014-21,WC-2014,Colombia v Ivory Coast,group stage,6/19/2014,13:00:00,S-009,T-15,T-40,2,1,0,0,0,0,home team win
+M-2014-22,WC-2014,Uruguay v England,group stage,6/19/2014,16:00:00,S-022,T-81,T-27,2,1,0,0,0,0,home team win
+M-2014-23,WC-2014,Japan v Greece,group stage,6/19/2014,19:00:00,S-015,T-42,T-31,0,0,0,0,0,0,draw
+M-2014-24,WC-2014,Italy v Costa Rica,group stage,6/20/2014,13:00:00,S-018,T-39,T-16,0,1,0,0,0,0,away team win
+M-2014-25,WC-2014,Switzerland v France,group stage,6/20/2014,16:00:00,S-021,T-73,T-28,2,5,0,0,0,0,away team win
+M-2014-26,WC-2014,Honduras v Ecuador,group stage,6/20/2014,19:00:00,S-011,T-33,T-24,1,2,0,0,0,0,away team win
+M-2014-27,WC-2014,Argentina v Iran,group stage,6/21/2014,13:00:00,S-008,T-03,T-36,1,0,0,0,0,0,home team win
+M-2014-28,WC-2014,Germany v Ghana,group stage,6/21/2014,16:00:00,S-013,T-29,T-30,2,2,0,0,0,0,draw
+M-2014-29,WC-2014,Nigeria v Bosnia and Herzegovina,group stage,6/21/2014,18:00:00,S-010,T-48,T-08,1,0,0,0,0,?,home team win
+M-2014-30,WC-2014,Belgium v Russia,group stage,6/22/2014,13:00:00,S-020,T-06,T-60,1,0,0,0,?,0,home team win
+M-2014-31,WC-2014,South Korea v Algeria,group stage,6/22/2014,16:00:00,S-016,T-69,T-01,2,4,0,0,0,0,away team win
+M-2014-32,WC-2014,United States v Portugal,group stage,6/22/2014,18:00:00,S-014,T-80,T-56,2,2,0,0,0,0,draw
+M-2014-33,WC-2014,Australia v Spain,group stage,6/23/2014,13:00:00,S-011,T-04,T-71,0,3,0,0,0,0,away team win
+M-2014-34,WC-2014,Netherlands v Chile,group stage,6/23/2014,13:00:00,S-022,T-46,T-13,2,0,0,0,0,0,home team win
+M-2014-35,WC-2014,Cameroon v Brazil,group stage,6/23/2014,17:00:00,S-009,T-11,T-09,1,4,0,0,0,0,away team win
+M-2014-36,WC-2014,Croatia v Mexico,group stage,6/23/2014,17:00:00,S-018,T-17,T-44,1,3,0,0,0,0,away team win
+M-2014-37,WC-2014,Costa Rica v England,group stage,6/24/2014,13:00:00,S-008,T-16,T-27,0,0,0,0,0,0,draw
+M-2014-38,WC-2014,Italy v Uruguay,group stage,6/24/2014,13:00:00,S-015,T-39,T-81,0,1,0,0,0,0,away team win
+M-2014-39,WC-2014,Japan v Colombia,group stage,6/24/2014,16:00:00,S-010,T-42,T-15,1,4,0,0,0,0,away team win
+M-2014-40,WC-2014,Greece v Ivory Coast,group stage,6/24/2014,17:00:00,S-013,T-31,T-40,2,1,0,0,0,0,home team win
+M-2014-41,WC-2014,Bosnia and Herzegovina v Iran,group stage,6/25/2014,13:00:00,S-021,T-08,T-36,3,1,0,0,0,0,home team win
+M-2014-42,WC-2014,Nigeria v Argentina,group stage,6/25/2014,13:00:00,S-016,T-48,T-03,2,3,0,0,0,0,away team win
+M-2014-43,WC-2014,Honduras v Switzerland,group stage,6/25/2014,16:00:00,S-014,T-33,T-73,0,3,0,0,0,0,away team win
+M-2014-44,WC-2014,Ecuador v France,group stage,6/25/2014,17:00:00,S-020,T-24,T-28,0,0,0,0,0,0,draw
+M-2014-45,WC-2014,Portugal v Ghana,group stage,6/26/2014,13:00:00,S-009,T-56,T-30,2,1,0,0,0,?,home team win
+M-2014-46,WC-2014,United States v Germany,group stage,6/26/2014,13:00:00,S-018,T-80,T-29,0,1,0,0,?,0,away team win
+M-2014-47,WC-2014,Algeria v Russia,group stage,6/26/2014,17:00:00,S-011,T-01,T-60,1,1,0,0,0,0,draw
+M-2014-48,WC-2014,South Korea v Belgium,group stage,6/26/2014,17:00:00,S-022,T-69,T-06,0,1,0,0,0,0,away team win
+M-2014-49,WC-2014,Brazil v Chile,round of 16,6/28/2014,13:00:00,S-008,T-09,T-13,1,1,1,1,3,2,home team win
+M-2014-50,WC-2014,Colombia v Uruguay,round of 16,6/28/2014,17:00:00,S-020,T-15,T-81,2,0,0,0,0,0,home team win
+M-2014-51,WC-2014,Netherlands v Mexico,round of 16,6/29/2014,13:00:00,S-013,T-46,T-44,2,1,0,0,0,0,home team win
+M-2014-52,WC-2014,Costa Rica v Greece,round of 16,6/29/2014,17:00:00,S-018,T-16,T-31,1,1,1,1,5,3,home team win
+M-2014-53,WC-2014,France v Nigeria,round of 16,6/30/2014,13:00:00,S-009,T-28,T-48,2,0,0,0,0,0,home team win
+M-2014-54,WC-2014,Germany v Algeria,round of 16,6/30/2014,17:00:00,S-016,T-29,T-01,2,1,1,0,0,0,home team win
+M-2014-55,WC-2014,Argentina v Switzerland,round of 16,07/01/2014,13:00:00,S-022,T-03,T-73,1,0,1,0,0,0,home team win
+M-2014-56,WC-2014,Belgium v United States,round of 16,07/01/2014,17:00:00,S-021,T-06,T-80,2,1,1,0,0,0,home team win
+M-2014-57,WC-2014,France v Germany,quarter-finals,07/04/2014,13:00:00,S-020,T-28,T-29,0,1,0,0,0,0,away team win
+M-2014-58,WC-2014,Brazil v Colombia,quarter-finals,07/04/2014,17:00:00,S-013,T-09,T-15,2,1,0,0,0,0,home team win
+M-2014-59,WC-2014,Argentina v Belgium,quarter-finals,07/05/2014,13:00:00,S-009,T-03,T-06,1,0,0,0,0,0,home team win
+M-2014-60,WC-2014,Netherlands v Costa Rica,quarter-finals,07/05/2014,17:00:00,S-021,T-46,T-16,0,0,1,1,4,3,home team win
+M-2014-61,WC-2014,Brazil v Germany,semi-finals,07/08/2014,17:00:00,S-008,T-09,T-29,1,7,0,0,0,0,away team win
+M-2014-62,WC-2014,Netherlands v Argentina,semi-finals,07/09/2014,17:00:00,S-022,T-46,T-03,0,0,1,1,2,4,away team win
+M-2014-63,WC-2014,Brazil v Netherlands,third-place match,07/12/2014,17:00:00,S-009,T-09,T-46,0,3,0,0,0,0,away team win
+M-2014-64,WC-2014,Germany v Argentina,final,7/13/2014,16:00:00,S-020,T-29,T-03,1,0,1,0,0,0,home team win
+M-2018-01,WC-2018,Russia v Saudi Arabia,group stage,6/14/2018,18:00:00,S-117,T-60,T-61,5,0,0,0,0,0,home team win
+M-2018-02,WC-2018,Egypt v Uruguay,group stage,6/15/2018,17:00:00,S-126,T-25,T-81,0,1,0,0,0,0,away team win
+M-2018-03,WC-2018,Morocco v Iran,group stage,6/15/2018,18:00:00,S-121,T-45,T-36,0,1,0,0,0,0,away team win
+M-2018-04,WC-2018,Portugal v Spain,group stage,6/15/2018,21:00:00,S-124,T-56,T-71,3,3,0,0,0,0,draw
+M-2018-05,WC-2018,France v Australia,group stage,6/16/2018,13:00:00,S-116,T-28,T-04,2,1,0,0,0,0,home team win
+M-2018-06,WC-2018,Argentina v Iceland,group stage,6/16/2018,16:00:00,S-118,T-03,T-35,1,1,0,0,0,0,draw
+M-2018-07,WC-2018,Peru v Denmark,group stage,6/16/2018,19:00:00,S-123,T-54,T-21,0,1,0,0,0,0,away team win
+M-2018-08,WC-2018,Croatia v Nigeria,group stage,6/16/2018,21:00:00,S-115,T-17,T-48,2,0,0,0,0,0,home team win
+M-2018-09,WC-2018,Costa Rica v Serbia,group stage,6/17/2018,16:00:00,S-122,T-16,T-64,0,1,0,0,0,0,away team win
+M-2018-10,WC-2018,Germany v Mexico,group stage,6/17/2018,18:00:00,S-117,T-29,T-44,0,1,0,0,0,0,away team win
+M-2018-11,WC-2018,Brazil v Switzerland,group stage,6/17/2018,21:00:00,S-120,T-09,T-73,1,1,0,0,0,0,draw
+M-2018-12,WC-2018,Sweden v South Korea,group stage,6/18/2018,15:00:00,S-119,T-72,T-69,1,0,0,0,0,0,home team win
+M-2018-13,WC-2018,Belgium v Panama,group stage,6/18/2018,18:00:00,S-124,T-06,T-52,3,0,0,0,0,0,home team win
+M-2018-14,WC-2018,Tunisia v England,group stage,6/18/2018,21:00:00,S-125,T-76,T-27,1,2,0,0,0,0,away team win
+M-2018-15,WC-2018,Colombia v Japan,group stage,6/19/2018,15:00:00,S-123,T-15,T-42,1,2,0,0,0,0,away team win
+M-2018-16,WC-2018,Poland v Senegal,group stage,6/19/2018,18:00:00,S-118,T-55,T-63,1,2,0,0,0,0,away team win
+M-2018-17,WC-2018,Russia v Egypt,group stage,6/19/2018,21:00:00,S-121,T-60,T-25,3,1,0,0,0,0,home team win
+M-2018-18,WC-2018,Portugal v Morocco,group stage,6/20/2018,15:00:00,S-117,T-56,T-45,1,0,0,0,0,0,home team win
+M-2018-19,WC-2018,Uruguay v Saudi Arabia,group stage,6/20/2018,18:00:00,S-120,T-81,T-61,1,0,0,0,0,0,home team win
+M-2018-20,WC-2018,Iran v Spain,group stage,6/20/2018,21:00:00,S-116,T-36,T-71,0,1,0,0,0,0,away team win
+M-2018-21,WC-2018,Denmark v Australia,group stage,6/21/2018,16:00:00,S-122,T-21,T-04,1,1,0,0,0,0,draw
+M-2018-22,WC-2018,France v Peru,group stage,6/21/2018,20:00:00,S-126,T-28,T-54,1,0,0,0,0,0,home team win
+M-2018-23,WC-2018,Argentina v Croatia,group stage,6/21/2018,21:00:00,S-119,T-03,T-17,0,3,0,0,0,0,away team win
+M-2018-24,WC-2018,Brazil v Costa Rica,group stage,6/22/2018,15:00:00,S-121,T-09,T-16,2,0,0,0,0,0,home team win
+M-2018-25,WC-2018,Nigeria v Iceland,group stage,6/22/2018,18:00:00,S-125,T-48,T-35,2,0,0,0,0,0,home team win
+M-2018-26,WC-2018,Serbia v Switzerland,group stage,6/22/2018,20:00:00,S-115,T-64,T-73,1,2,0,0,0,0,away team win
+M-2018-27,WC-2018,Belgium v Tunisia,group stage,6/23/2018,15:00:00,S-118,T-06,T-76,5,2,0,0,0,0,home team win
+M-2018-28,WC-2018,South Korea v Mexico,group stage,6/23/2018,18:00:00,S-120,T-69,T-44,1,2,0,0,0,0,away team win
+M-2018-29,WC-2018,Germany v Sweden,group stage,6/23/2018,21:00:00,S-124,T-29,T-72,2,1,0,0,0,0,home team win
+M-2018-30,WC-2018,England v Panama,group stage,6/24/2018,15:00:00,S-119,T-27,T-52,6,1,0,0,0,0,home team win
+M-2018-31,WC-2018,Japan v Senegal,group stage,6/24/2018,20:00:00,S-126,T-42,T-63,2,2,0,0,0,0,draw
+M-2018-32,WC-2018,Poland v Colombia,group stage,6/24/2018,21:00:00,S-116,T-55,T-15,0,3,0,0,0,0,away team win
+M-2018-33,WC-2018,Saudi Arabia v Egypt,group stage,6/25/2018,17:00:00,S-125,T-61,T-25,2,1,0,0,0,0,home team win
+M-2018-34,WC-2018,Uruguay v Russia,group stage,6/25/2018,18:00:00,S-122,T-81,T-60,3,0,0,0,0,0,home team win
+M-2018-35,WC-2018,Spain v Morocco,group stage,6/25/2018,20:00:00,S-115,T-71,T-45,2,2,0,0,0,0,draw
+M-2018-36,WC-2018,Iran v Portugal,group stage,6/25/2018,21:00:00,S-123,T-36,T-56,1,1,0,0,0,0,draw
+M-2018-37,WC-2018,Australia v Peru,group stage,6/26/2018,17:00:00,S-124,T-04,T-54,0,2,0,0,0,0,away team win
+M-2018-38,WC-2018,Denmark v France,group stage,6/26/2018,17:00:00,S-117,T-21,T-28,0,0,0,0,0,0,draw
+M-2018-39,WC-2018,Iceland v Croatia,group stage,6/26/2018,21:00:00,S-120,T-35,T-17,1,2,0,0,0,0,away team win
+M-2018-40,WC-2018,Nigeria v Argentina,group stage,6/26/2018,21:00:00,S-121,T-48,T-03,1,2,0,0,0,0,away team win
+M-2018-41,WC-2018,South Korea v Germany,group stage,6/27/2018,17:00:00,S-116,T-69,T-29,2,0,0,0,0,0,home team win
+M-2018-42,WC-2018,Mexico v Sweden,group stage,6/27/2018,19:00:00,S-126,T-44,T-72,0,3,0,0,0,0,away team win
+M-2018-43,WC-2018,Serbia v Brazil,group stage,6/27/2018,21:00:00,S-118,T-64,T-09,0,2,0,0,0,0,away team win
+M-2018-44,WC-2018,Switzerland v Costa Rica,group stage,6/27/2018,21:00:00,S-119,T-73,T-16,2,2,0,0,0,0,draw
+M-2018-45,WC-2018,Japan v Poland,group stage,6/28/2018,17:00:00,S-125,T-42,T-55,0,1,0,0,0,0,away team win
+M-2018-46,WC-2018,Senegal v Colombia,group stage,6/28/2018,18:00:00,S-122,T-63,T-15,0,1,0,0,0,0,away team win
+M-2018-47,WC-2018,England v Belgium,group stage,6/28/2018,20:00:00,S-115,T-27,T-06,0,1,0,0,0,0,away team win
+M-2018-48,WC-2018,Panama v Tunisia,group stage,6/28/2018,21:00:00,S-123,T-52,T-76,1,2,0,0,0,0,away team win
+M-2018-49,WC-2018,France v Argentina,round of 16,6/30/2018,17:00:00,S-116,T-28,T-03,4,3,0,0,0,0,home team win
+M-2018-50,WC-2018,Uruguay v Portugal,round of 16,6/30/2018,21:00:00,S-124,T-81,T-56,2,1,0,0,0,0,home team win
+M-2018-51,WC-2018,Spain v Russia,round of 16,07/01/2018,17:00:00,S-117,T-71,T-60,1,1,1,1,3,4,away team win
+M-2018-52,WC-2018,Croatia v Denmark,round of 16,07/01/2018,21:00:00,S-119,T-17,T-21,1,1,1,1,3,2,home team win
+M-2018-53,WC-2018,Brazil v Mexico,round of 16,07/02/2018,18:00:00,S-122,T-09,T-44,2,0,0,0,0,0,home team win
+M-2018-54,WC-2018,Belgium v Japan,round of 16,07/02/2018,21:00:00,S-120,T-06,T-42,3,2,0,0,0,0,home team win
+M-2018-55,WC-2018,Sweden v Switzerland,round of 16,07/03/2018,17:00:00,S-121,T-72,T-73,1,0,0,0,0,0,home team win
+M-2018-56,WC-2018,Colombia v England,round of 16,07/03/2018,21:00:00,S-118,T-15,T-27,1,1,1,1,3,4,away team win
+M-2018-57,WC-2018,Uruguay v France,quarter-finals,07/06/2018,17:00:00,S-119,T-81,T-28,0,2,0,0,0,0,away team win
+M-2018-58,WC-2018,Brazil v Belgium,quarter-finals,07/06/2018,21:00:00,S-116,T-09,T-06,1,2,0,0,0,0,away team win
+M-2018-59,WC-2018,Sweden v England,quarter-finals,07/07/2018,18:00:00,S-122,T-72,T-27,0,2,0,0,0,0,away team win
+M-2018-60,WC-2018,Russia v Croatia,quarter-finals,07/07/2018,21:00:00,S-124,T-60,T-17,2,2,1,1,3,4,away team win
+M-2018-61,WC-2018,France v Belgium,semi-finals,07/10/2018,21:00:00,S-121,T-28,T-06,1,0,0,0,0,0,home team win
+M-2018-62,WC-2018,Croatia v England,semi-finals,07/11/2018,21:00:00,S-117,T-17,T-27,2,1,1,0,0,0,home team win
+M-2018-63,WC-2018,Belgium v England,third-place match,7/14/2018,17:00:00,S-121,T-06,T-27,2,0,0,0,0,0,home team win
+M-2018-64,WC-2018,France v Croatia,final,7/15/2018,18:00:00,S-117,T-28,T-17,4,2,0,0,0,0,home team win
+M-2022-01,WC-2022,Qatar v Ecuador,group stage,11/20/2022,19:00:00,S-107,T-57,T-24,0,2,0,0,0,0,away team win
+M-2022-02,WC-2022,England v Iran,group stage,11/21/2022,16:00:00,S-110,T-27,T-36,6,2,0,0,0,0,home team win
+M-2022-03,WC-2022,Senegal v Netherlands,group stage,11/21/2022,19:00:00,S-112,T-63,T-46,0,2,0,0,0,0,away team win
+M-2022-04,WC-2022,United States v Wales,group stage,11/21/2022,22:00:00,S-108,T-80,T-82,1,1,0,0,0,0,draw
+M-2022-05,WC-2022,Argentina v Saudi Arabia,group stage,11/22/2022,13:00:00,S-114,T-03,T-61,1,2,0,0,0,0,away team win
+M-2022-06,WC-2022,Denmark v Tunisia,group stage,11/22/2022,16:00:00,S-109,T-21,T-76,0,0,0,0,0,0,draw
+M-2022-07,WC-2022,Mexico v Poland,group stage,11/22/2022,19:00:00,S-113,T-44,T-55,0,0,0,0,0,0,draw
+M-2022-08,WC-2022,France v Australia,group stage,11/22/2022,22:00:00,S-111,T-28,T-04,4,1,0,0,0,0,home team win
+M-2022-09,WC-2022,Morocco v Croatia,group stage,11/23/2022,13:00:00,S-107,T-45,T-17,0,0,0,0,0,0,draw
+M-2022-10,WC-2022,Germany v Japan,group stage,11/23/2022,16:00:00,S-110,T-29,T-42,1,2,0,0,0,0,away team win
+M-2022-11,WC-2022,Spain v Costa Rica,group stage,11/23/2022,19:00:00,S-112,T-71,T-16,7,0,0,0,0,0,home team win
+M-2022-12,WC-2022,Belgium v Canada,group stage,11/23/2022,22:00:00,S-108,T-06,T-12,1,0,0,0,0,0,home team win
+M-2022-13,WC-2022,Switzerland v Cameroon,group stage,11/24/2022,13:00:00,S-111,T-73,T-11,1,0,0,0,0,0,home team win
+M-2022-14,WC-2022,Uruguay v South Korea,group stage,11/24/2022,16:00:00,S-109,T-81,T-69,0,0,0,0,0,0,draw
+M-2022-15,WC-2022,Portugal v Ghana,group stage,11/24/2022,19:00:00,S-113,T-56,T-30,3,2,0,0,0,0,home team win
+M-2022-16,WC-2022,Brazil v Serbia,group stage,11/24/2022,22:00:00,S-114,T-09,T-64,2,0,0,0,0,0,home team win
+M-2022-17,WC-2022,Wales v Iran,group stage,11/25/2022,13:00:00,S-108,T-82,T-36,0,2,0,0,0,0,away team win
+M-2022-18,WC-2022,Qatar v Senegal,group stage,11/25/2022,16:00:00,S-112,T-57,T-63,1,3,0,0,0,0,away team win
+M-2022-19,WC-2022,Netherlands v Ecuador,group stage,11/25/2022,19:00:00,S-110,T-46,T-24,1,1,0,0,0,0,draw
+M-2022-20,WC-2022,England v United States,group stage,11/25/2022,22:00:00,S-107,T-27,T-80,0,0,0,0,0,0,draw
+M-2022-21,WC-2022,Tunisia v Australia,group stage,11/26/2022,13:00:00,S-111,T-76,T-04,0,1,0,0,0,0,away team win
+M-2022-22,WC-2022,Poland v Saudi Arabia,group stage,11/26/2022,16:00:00,S-109,T-55,T-61,2,0,0,0,0,0,home team win
+M-2022-23,WC-2022,France v Denmark,group stage,11/26/2022,19:00:00,S-113,T-28,T-21,2,1,0,0,0,0,home team win
+M-2022-24,WC-2022,Argentina v Mexico,group stage,11/26/2022,22:00:00,S-114,T-03,T-44,2,0,0,0,0,0,home team win
+M-2022-25,WC-2022,Japan v Costa Rica,group stage,11/27/2022,13:00:00,S-108,T-42,T-16,0,1,0,0,0,0,away team win
+M-2022-26,WC-2022,Belgium v Morocco,group stage,11/27/2022,16:00:00,S-112,T-06,T-45,0,2,0,0,0,0,away team win
+M-2022-27,WC-2022,Croatia v Canada,group stage,11/27/2022,19:00:00,S-110,T-17,T-12,4,1,0,0,0,0,home team win
+M-2022-28,WC-2022,Spain v Germany,group stage,11/27/2022,22:00:00,S-107,T-71,T-29,1,1,0,0,0,0,draw
+M-2022-29,WC-2022,Cameroon v Serbia,group stage,11/28/2022,13:00:00,S-111,T-11,T-64,3,3,0,0,0,0,draw
+M-2022-30,WC-2022,South Korea v Ghana,group stage,11/28/2022,16:00:00,S-109,T-69,T-30,2,3,0,0,0,0,away team win
+M-2022-31,WC-2022,Brazil v Switzerland,group stage,11/28/2022,19:00:00,S-113,T-09,T-73,1,0,0,0,0,0,home team win
+M-2022-32,WC-2022,Portugal v Uruguay,group stage,11/28/2022,22:00:00,S-114,T-56,T-81,2,0,0,0,0,0,home team win
+M-2022-33,WC-2022,Ecuador v Senegal,group stage,11/29/2022,18:00:00,S-110,T-24,T-63,1,2,0,0,0,0,away team win
+M-2022-34,WC-2022,Netherlands v Qatar,group stage,11/29/2022,18:00:00,S-107,T-46,T-57,2,0,0,0,0,0,home team win
+M-2022-35,WC-2022,Iran v United States,group stage,11/29/2022,22:00:00,S-112,T-36,T-80,0,1,0,0,0,0,away team win
+M-2022-36,WC-2022,Wales v England,group stage,11/29/2022,22:00:00,S-108,T-82,T-27,0,3,0,0,0,0,away team win
+M-2022-37,WC-2022,Australia v Denmark,group stage,11/30/2022,18:00:00,S-111,T-04,T-21,1,0,0,0,0,0,home team win
+M-2022-38,WC-2022,Tunisia v France,group stage,11/30/2022,18:00:00,S-109,T-76,T-28,1,0,0,0,0,0,home team win
+M-2022-39,WC-2022,Poland v Argentina,group stage,11/30/2022,22:00:00,S-113,T-55,T-03,0,2,0,0,0,0,away team win
+M-2022-40,WC-2022,Saudi Arabia v Mexico,group stage,11/30/2022,22:00:00,S-114,T-61,T-44,1,2,0,0,0,0,away team win
+M-2022-41,WC-2022,Canada v Morocco,group stage,12/01/2022,18:00:00,S-112,T-12,T-45,1,2,0,0,0,0,away team win
+M-2022-42,WC-2022,Croatia v Belgium,group stage,12/01/2022,18:00:00,S-108,T-17,T-06,0,0,0,0,0,0,draw
+M-2022-43,WC-2022,Costa Rica v Germany,group stage,12/01/2022,22:00:00,S-107,T-16,T-29,2,4,0,0,0,0,away team win
+M-2022-44,WC-2022,Japan v Spain,group stage,12/01/2022,22:00:00,S-110,T-42,T-71,2,1,0,0,0,0,home team win
+M-2022-45,WC-2022,Ghana v Uruguay,group stage,12/02/2022,18:00:00,S-111,T-30,T-81,0,2,0,0,0,0,away team win
+M-2022-46,WC-2022,South Korea v Portugal,group stage,12/02/2022,18:00:00,S-109,T-69,T-56,2,1,0,0,0,0,home team win
+M-2022-47,WC-2022,Cameroon v Brazil,group stage,12/02/2022,22:00:00,S-114,T-11,T-09,1,0,0,0,0,0,home team win
+M-2022-48,WC-2022,Serbia v Switzerland,group stage,12/02/2022,22:00:00,S-113,T-64,T-73,2,3,0,0,0,0,away team win
+M-2022-49,WC-2022,Netherlands v United States,round of 16,12/03/2022,18:00:00,S-110,T-46,T-80,3,1,0,0,0,0,home team win
+M-2022-50,WC-2022,Argentina v Australia,round of 16,12/03/2022,22:00:00,S-108,T-03,T-04,2,1,0,0,0,0,home team win
+M-2022-51,WC-2022,France v Poland,round of 16,12/04/2022,18:00:00,S-112,T-28,T-55,3,1,0,0,0,0,home team win
+M-2022-52,WC-2022,England v Senegal,round of 16,12/04/2022,22:00:00,S-107,T-27,T-63,3,0,0,0,0,0,home team win
+M-2022-53,WC-2022,Japan v Croatia,round of 16,12/05/2022,18:00:00,S-111,T-42,T-17,1,1,1,1,1,3,away team win
+M-2022-54,WC-2022,Brazil v South Korea,round of 16,12/05/2022,22:00:00,S-113,T-09,T-69,4,1,0,0,0,0,home team win
+M-2022-55,WC-2022,Morocco v Spain,round of 16,12/06/2022,18:00:00,S-109,T-45,T-71,0,0,1,1,3,0,home team win
+M-2022-56,WC-2022,Portugal v Switzerland,round of 16,12/06/2022,22:00:00,S-114,T-56,T-73,6,1,0,0,0,0,home team win
+M-2022-57,WC-2022,Croatia v Brazil,quarter-finals,12/09/2022,18:00:00,S-109,T-17,T-09,1,1,1,1,4,2,home team win
+M-2022-58,WC-2022,Netherlands v Argentina,quarter-finals,12/09/2022,22:00:00,S-114,T-46,T-03,2,2,1,1,3,4,away team win
+M-2022-59,WC-2022,Morocco v Portugal,quarter-finals,12/10/2022,18:00:00,S-112,T-45,T-56,1,0,0,0,0,0,home team win
+M-2022-60,WC-2022,England v France,quarter-finals,12/10/2022,22:00:00,S-107,T-27,T-28,1,2,0,0,0,0,away team win
+M-2022-61,WC-2022,Argentina v Croatia,semi-finals,12/13/2022,22:00:00,S-114,T-03,T-17,3,0,0,0,0,0,home team win
+M-2022-62,WC-2022,France v Morocco,semi-finals,12/14/2022,22:00:00,S-107,T-28,T-45,2,0,0,0,0,0,home team win
+M-2022-63,WC-2022,Croatia v Morocco,third-place match,12/17/2022,18:00:00,S-110,T-17,T-45,2,1,0,0,0,0,home team win
+M-2022-64,WC-2022,Argentina v France,final,12/18/2022,18:00:00,S-114,T-03,T-28,3,3,1,1,4,2,home team win
