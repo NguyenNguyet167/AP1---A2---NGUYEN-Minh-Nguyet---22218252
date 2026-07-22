@@ -49,4 +49,38 @@ ggplot(penalty_matches, aes(x = as.factor(HomePenalty))) +
   ) +
   theme_minimal()
 
+#QUESTION 2
+# Histogram 1: By Stage
+ggplot(matches_clean, aes(x = HomeTeamScore)) +
+  geom_histogram(binwidth = 1, fill = "darkgreen", color = "black") +
+  facet_wrap(~Stage, scales = "free_y") +
+  labs(title = "Home Team Score Distribution by Stage", x = "Home Team Score", y = "Count") +
+  theme_minimal()
+
+# Histogram 2: By Tournament Name
+ggplot(matches_clean, aes(x = HomeTeamScore)) +
+  geom_histogram(binwidth = 1, fill = "purple", color = "black") +
+  facet_wrap(~TournamentName, scales = "free_y") +
+  labs(title = "Home Team Score Distribution by Tournament", x = "Home Team Score", y = "Count") +
+  theme_minimal()
+
+# Grouping AwayTeamScore
+matches_grouped <- matches_clean %>%
+  mutate(AwayScoreGroup = case_when(
+    AwayTeamScore <= 1 ~ "0-1 goals",
+    AwayTeamScore >= 2 & AwayTeamScore <= 3 ~ "2-3 goals",
+    AwayTeamScore >= 4 ~ "4 or more goals",
+    TRUE ~ "Unknown"
+  )) %>%
+  # Lock the logical order of factors for plotting
+  mutate(AwayScoreGroup = factor(AwayScoreGroup, levels = c("0-1 goals", "2-3 goals", "4 or more goals")))
+
+# Histogram 3: By AwayTeamScore Group
+ggplot(matches_grouped, aes(x = HomeTeamScore)) +
+  geom_histogram(binwidth = 1, fill = "coral", color = "black") +
+  facet_wrap(~AwayScoreGroup) +
+  labs(title = "Home Team Score Distribution by Away Team Score Group", x = "Home Team Score", y = "Count") +
+  theme_minimal()
+
+
 
