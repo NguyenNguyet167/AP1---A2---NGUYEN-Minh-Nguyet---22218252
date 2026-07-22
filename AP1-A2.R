@@ -107,3 +107,31 @@ print("--- Top 5 Away Teams ---")
 print(top_away_penalties)
 
 
+#QUESTION 4
+# Filter out matches where Result is NA for accurate modeling/visualization
+analysis_data <- matches_clean %>%
+  filter(!is.na(Result))
+
+# Visualizing Factor 1: ExtraTime vs Result
+ggplot(analysis_data, aes(x = ExtraTime, fill = Result)) +
+  geom_bar(position = "fill") +
+  scale_y_continuous(labels = percent_format()) +
+  labs(
+    title = "Match Outcome Proportion by Extra Time",
+    x = "Did the match go to Extra Time?",
+    y = "Proportion of Match Outcomes"
+  ) +
+  theme_minimal()
+
+# Visualizing Factor 2: Stage vs Result
+ggplot(analysis_data, aes(x = Stage, fill = Result)) +
+  geom_bar(position = "fill") +
+  scale_y_continuous(labels = percent_format()) +
+  coord_flip() + # Flip x and y axis for better readability of Stage names
+  labs(
+    title = "Match Outcome Proportion by Competition Stage",
+    x = "Competition Stage",
+    y = "Proportion of Match Outcomes"
+  ) +
+  theme_minimal()
+
