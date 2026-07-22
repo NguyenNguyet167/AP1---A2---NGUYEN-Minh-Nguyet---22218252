@@ -20,17 +20,17 @@ matches_clean <- matches_joined %>%
   mutate(across(where(is.character), ~ na_if(.x, "?"))) %>%
   # Convert specific columns to factors
   mutate(
-    Result = as.factor(Result),
-    Stage = as.factor(Stage),
-    Country = as.factor(Country),
-    ExtraTime = as.factor(ExtraTime)
+    Result <- as.factor(Result),
+    Stage <- as.factor(Stage),
+    Country <- as.factor(Country),
+    ExtraTime <- as.factor(ExtraTime)
   ) %>%
   # Convert penalties to numeric and replace NAs with 0
   mutate(
-    HomePenalty = as.numeric(HomePenalty),
-    AwayPenalty = as.numeric(AwayPenalty),
-    HomePenalty = replace_na(HomePenalty, 0),
-    AwayPenalty = replace_na(AwayPenalty, 0)
+    HomePenalty <- as.numeric(HomePenalty),
+    AwayPenalty <- as.numeric(AwayPenalty),
+    HomePenalty <- replace_na(HomePenalty, 0),
+    AwayPenalty <- replace_na(AwayPenalty, 0)
   )
   #Test
 summary(matches_clean %>% select(Result, Stage, Country, ExtraTime, HomePenalty))
@@ -82,5 +82,28 @@ ggplot(matches_grouped, aes(x = HomeTeamScore)) +
   labs(title = "Home Team Score Distribution by Away Team Score Group", x = "Home Team Score", y = "Count") +
   theme_minimal()
 
+
+#QUESTION 3
+# Top 5 Home Teams
+top_home_penalties <- penalty_matches %>%
+  count(HomeTeamID, name = "NumberOfMatches") %>%
+  arrange(desc(NumberOfMatches)) %>%
+  slice_head(n = 5) %>% 
+  left_join(teams, by = c("HomeTeamID" = "TeamID")) %>%
+  select(TeamName, TeamCode, NumberOfMatches)
+
+# Top 5 Away Teams
+top_away_penalties <- penalty_matches %>%
+  count(AwayTeamID, name = "NumberOfMatches") %>%
+  arrange(desc(NumberOfMatches)) %>%
+  slice_head(n = 5) %>%
+  left_join(teams, by = c("AwayTeamID" = "TeamID")) %>%
+  select(TeamName, TeamCode, NumberOfMatches)
+
+# Print tables
+print("--- Top 5 Home Teams ---")
+print(top_home_penalties)
+print("--- Top 5 Away Teams ---")
+print(top_away_penalties)
 
 
