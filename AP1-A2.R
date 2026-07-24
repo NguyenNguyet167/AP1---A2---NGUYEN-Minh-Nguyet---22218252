@@ -1,5 +1,6 @@
 #Read data
 library(tidyverse)
+library(scales)
 matches_raw <- read_csv("Matches.csv")
 stadiums <- read_csv("Stadiums.csv")
 teams <- read_csv("Teams.csv")
@@ -32,10 +33,10 @@ matches_clean <- matches_joined %>%
     HomePenalty <- replace_na(HomePenalty, 0),
     AwayPenalty <- replace_na(AwayPenalty, 0)
   )
-  #Test
+#Test
 summary(matches_clean %>% select(Result, Stage, Country, ExtraTime, HomePenalty))
 
-  # Visualization for Q1
+# Visualization for Q1
 penalty_matches <- matches_clean %>%
   # Filter matches decided by penalty
   filter(PenaltyShootout == "TRUE" | PenaltyShootout == TRUE)
@@ -75,6 +76,9 @@ matches_grouped <- matches_clean %>%
   # Lock the logical order of factors for plotting
   mutate(AwayScoreGroup = factor(AwayScoreGroup, levels = c("0-1 goals", "2-3 goals", "4 or more goals")))
 
+# Test if the grouping logic worked correctly before plotting
+table(matches_grouped$AwayScoreGroup)
+
 # Histogram 3: By AwayTeamScore Group
 ggplot(matches_grouped, aes(x = HomeTeamScore)) +
   geom_histogram(binwidth = 1, fill = "coral", color = "black") +
@@ -111,6 +115,10 @@ print(top_away_penalties)
 # Filter out matches where Result is NA for accurate modeling/visualization
 analysis_data <- matches_clean %>%
   filter(!is.na(Result))
+
+# Verify that NAs are removed and the structure is ready for plotting 
+str(analysis_data %>% select(ExtraTime, Stage, Result))
+
 
 # Visualizing Factor 1: ExtraTime vs Result
 ggplot(analysis_data, aes(x = ExtraTime, fill = Result)) +
